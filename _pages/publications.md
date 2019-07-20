@@ -3,22 +3,70 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## Submitted
+### Submitted
+- [Southern Ocean Phytoplankton Blooms Observed by Biogeochemical Floats][temp1]  
+  Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Channing Prend, Emmanuel Boss, & Sarah Gille
+- [The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean][temp2]  
+  Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy
 
+[temp1]:https://eartharxiv.org/bmex8/
+[temp2]:https://eartharxiv.org/xwb75/
 
-## Peer Reviewed Publications
-0.  [First publication][1]  
-    Dhruv Balwada,   
-    **Journal of publcations** , **asd**
+### Peer Reviewed Publications
 
-0. [sass_dir][2]  
+0.  [Modulation of Lateral Transport by Submesoscale Eddies and Inertia Gravity Waves][9]  
+    Anirban Sinha, **D. Balwada**, N. Tarshish, and R. Abernathey  
+    *Journal of Advances in Modeling Earth Systems (2019)*  
+
+0.  [Submesoscale Vertical Velocities Enhance Tracer Subduction in an Idealized Antarctic Circumpolar Current][8]  
+    **Dhruv Balwada**, S. Smith, R. Abernathey  
+    *Geophysical Research Letters (2018)*
+
+0.  [Global Observations of Horizontal Mixing from Argo float and Surface drifter trajectories][7]  
+    Christopher Roach, **D. Balwada**, K.G. Speer   
+    *Journal of Geophysical Research: Oceans (2018)*  
+
+0.  [Scale Dependent Distribution of Kinetic Energy from Surface Drifters in the Gulf of Mexico][6]  
+    **Dhruv Balwada**, J.H. LaCasce & K.G. Speer  
+    *Geophysical Research Letters (2016)*  
+
+0.  [Horizontal Mixing in the Southern Ocean from ARGO Float Trajectories][5]  
+    Christopher Roach, **D. Balwada**, K.G. Speer  
+    *Journal of Geophysical Research: Oceans (2016)*
+
+0.  [Circulation and stirring in the South East Pacific Ocean and the Scotia Sea Sectors of the ACC][4]  
+    **Dhruv Balwada**, K. G. Speer, J. H. LaCasce, B. Owens, R. Ferrari and J. Marshall  
+    *Journal of Physical Oceanography (2016)*
+
+0.  [Tracking with Ranked Signals][3]  
+    Tianyang Li, H. Pareek, P. Ravikumar, **D. Balwada** & K.G. Speer  
+    *31 Conf. on Uncertainty in Artificial Intelligence (2015)*
+
+0. [Float-derived Isopycnal Diffusivities in the DIMES experiment][2]  
+    Joseph H. LaCasce, R. Ferrari, R. Tulloch, **D. Balwada** and K.G. Speer  
+    *Journal of Physical Oceanography (2014)*  
+
+0. [The Diapycnal and Isopycnal Mixing Experiment: A First Assessment][1]  
+    Sarah T. Gille, J. Ledwell, A. Naveira-Garabato, K. Speer, **D. Balwada**, A. Brearley, J. B. Girton, A. Griesel, R. Ferrari, A. Klocker, J. LaCasce, P. Lazarevich, N. Mackay, M. P. Meredith, M.J. Messias, B. Owens, J.-B. Sallée, K. Sheen, E. Shuckburgh, D. A. Smeed, L. C. St. Laurent, J. M. Toole, A. J. Watson, N. Wienders, and U. Zajaczkovski  
+    *CLIVAR Exchanges (2012)*  
 {: reversed="reversed"}
 
 
-## Non Peer Reviewed Write-ups  
-Non peer reviewed.
+### PhD Thesis  
+[Circulation and Stirring by Ocean Turbulence]  
+**Dhruv Balwada**  
+*Florida State University (2016)*  
 
-## Thesis  
-This is my thesis.
 
-[1]: https://dhruvbalwada.github.io/assets/pdf/
+[Circulation and Stirring by Ocean Turbulence]: https://dhruvbalwada.github.io/assets/pdf/documents/balwada_thesis.pdf
+
+
+[1]: https://dhruvbalwada.github.io/assets/pdf/documents/Gille_et_al2012.pdf
+[2]: https://dhruvbalwada.github.io/assets/pdf/documents/LaCasce_et_al2014.pdf
+[3]: https://dhruvbalwada.github.io/assets/pdf/documents/Li_et_al2015.pdf
+[4]: https://dhruvbalwada.github.io/assets/pdf/documents/Balwada_et_al2016a.pdf
+[5]: https://dhruvbalwada.github.io/assets/pdf/documents/Roach_et_al2016.pdf
+[6]: https://dhruvbalwada.github.io/assets/pdf/documents/Balwada_et_al2016b.pdf
+[7]: https://dhruvbalwada.github.io/assets/pdf/documents/Roach_et_al2018.pdf
+[8]: https://dhruvbalwada.github.io/assets/pdf/documents/Balwada_et_al2018.pdf
+[9]: https://dhruvbalwada.github.io/assets/pdf/documents/Sinha_et_al2019.pdf
