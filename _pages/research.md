@@ -4,14 +4,15 @@ layout: collection
 permalink: /research/
 collection: research
 entries_layout: grid
+header:
+  image: /assets/images/vorticity_1km.jpg
+  caption: "Eddies in a channel simulation"
 ---
 
 Sample document listing for the collection `_research`.
 
 
 ### DIMES
-
-More text.
 
 ### Structure Functions
 

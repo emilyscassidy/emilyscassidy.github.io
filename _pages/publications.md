@@ -62,15 +62,15 @@ header:
   *Florida State University (2016)*  
 
 
-[Circulation and Stirring by Ocean Turbulence]: https://dhruvbalwada.github.io/assets/documents/balwada_thesis.pdf
+[Circulation and Stirring by Ocean Turbulence]: /assets/documents/balwada_thesis.pdf
 
 
-[1]: https://dhruvbalwada.github.io/assets/documents/Gille_et_al2012.pdf
-[2]: https://dhruvbalwada.github.io/assets/documents/LaCasce_et_al2014.pdf
-[3]: https://dhruvbalwada.github.io/assets/documents/Li_et_al2015.pdf
-[4]: https://dhruvbalwada.github.io/assets/documents/Balwada_et_al2016a.pdf
-[5]: https://dhruvbalwada.github.io/assets/documents/Roach_et_al2016.pdf
-[6]: https://dhruvbalwada.github.io/assets/documents/Balwada_et_al2016b.pdf
-[7]: https://dhruvbalwada.github.io/assets/documents/Roach_et_al2018.pdf
-[8]: https://dhruvbalwada.github.io/assets/documents/Balwada_et_al2018.pdf
-[9]: https://dhruvbalwada.github.io/assets/documents/Sinha_et_al2019.pdf
+[1]: /assets/documents/Gille_et_al2012.pdf
+[2]: /assets/documents/LaCasce_et_al2014.pdf
+[3]: /assets/documents/Li_et_al2015.pdf
+[4]: /assets/documents/Balwada_et_al2016a.pdf
+[5]: /assets/documents/Roach_et_al2016.pdf
+[6]: /assets/documents/Balwada_et_al2016b.pdf
+[7]: /assets/documents/Roach_et_al2018.pdf
+[8]: /assets/documents/Balwada_et_al2018.pdf
+[9]: /assets/documents/Sinha_et_al2019.pdf
