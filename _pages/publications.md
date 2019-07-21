@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Publications"
 permalink: /publications/
 header:
@@ -56,9 +57,9 @@ header:
 
 
 ### PhD Thesis  
-[Circulation and Stirring by Ocean Turbulence]  
-**Dhruv Balwada**  
-*Florida State University (2016)*  
+- [Circulation and Stirring by Ocean Turbulence]  
+  **Dhruv Balwada**  
+  *Florida State University (2016)*  
 
 
 [Circulation and Stirring by Ocean Turbulence]: https://dhruvbalwada.github.io/assets/documents/balwada_thesis.pdf
