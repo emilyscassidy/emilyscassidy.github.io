@@ -16,9 +16,9 @@ minimal_mistakes_skin    : 'air' #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dhruv Balwada"
+title                    : "Stir, Mix & Transport"
 title_separator          : "|"
-subtitle                 : "Stir, Mix & Transport" # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Dhruv Balwada"
 description              : "Oceanography, turbulence, transport, Lagrangian, tracers."
 url                      : "https://dhruvbalwada.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -219,10 +219,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+#timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -295,11 +295,26 @@ defaults:
       share: true
       related: true
 
-defaults:
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true 
+      author_profile: true
+
+# _portfolio
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+
+# Add collections (https://mmistakes.github.io/minimal-mistakes/docs/collections/)
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
