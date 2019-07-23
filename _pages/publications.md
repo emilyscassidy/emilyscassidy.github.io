@@ -12,6 +12,8 @@ header:
   Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Channing Prend, Emmanuel Boss, & Sarah Gille
 - [The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean][temp2]  
   Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy
+  - Eddy iron fluxes control primary production in the open Southern Ocean
+    Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy
 
 [temp1]:https://eartharxiv.org/bmex8/
 [temp2]:https://eartharxiv.org/xwb75/
