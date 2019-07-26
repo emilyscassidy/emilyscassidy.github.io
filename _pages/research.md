@@ -12,10 +12,12 @@ header:
 Under construction. To know more please proceed to [publications](/publications), for now.
 
 ### DIMES
+{% include video id="gRnIld6qiw0" provider="youtube" %}
 
 ### Structure Functions
 
 ### Vertical Transport
+{% include video id="0xpR_qx81FM" provider="youtube" %}
 
 ### Horizontal Stirring
 

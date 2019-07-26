@@ -26,11 +26,13 @@ header:
 
 0.  [Submesoscale Vertical Velocities Enhance Tracer Subduction in an Idealized Antarctic Circumpolar Current][8]  
     **Dhruv Balwada**, S. Smith, & R. Abernathey  
-    *Geophysical Research Letters (2018)*
+    *Geophysical Research Letters (2018)*  
+    [Supp Mat][8supp], [Video1km][8vid1], [Video5km][8vid2], [Video20km][8vid3], [Github repo with setup][8repo]
 
 0.  [Global Observations of Horizontal Mixing from Argo float and Surface drifter trajectories][7]  
     Christopher Roach, **D. Balwada**, & K.G. Speer   
     *Journal of Geophysical Research: Oceans (2018)*  
+    [Github repo with results][7repo]
 
 0.  [Scale Dependent Distribution of Kinetic Energy from Surface Drifters in the Gulf of Mexico][6]  
     **Dhruv Balwada**, J.H. LaCasce, & K.G. Speer  
@@ -74,5 +76,11 @@ header:
 [5]: /assets/documents/Roach_et_al2016.pdf
 [6]: /assets/documents/Balwada_et_al2016b.pdf
 [7]: /assets/documents/Roach_et_al2018.pdf
+[7repo]: https://github.com/croachutas/Isopycnal_Diffusivity
 [8]: /assets/documents/Balwada_et_al2018.pdf
+[8supp]: /assets/documents/Balwada_et_al2018_supp_material.pdf
+[8vid1]: https://www.youtube.com/watch?v=0xpR_qx81FM
+[8vid2]: https://www.youtube.com/watch?v=QBpTDU6AYrw
+[8vid3]: https://www.youtube.com/watch?v=TwC_GV8v7bs
+[8repo]: https://github.com/dhruvbalwada/submesoscale_subduction_GRL
 [9]: /assets/documents/Sinha_et_al2019.pdf
