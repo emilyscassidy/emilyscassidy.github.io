@@ -19,3 +19,9 @@ I was born in the Indian state of [Rajasthan](https://en.wikipedia.org/wiki/Raja
 [nyu]: https://cims.nyu.edu/
 [gfdi]: https://gfdi.fsu.edu/
 [bits]: https://www.bits-pilani.ac.in/Goa/
+
+---
+
+### Links
+[Stupidity in Science](https://jcs.biologists.org/content/joces/121/11/1771.full.pdf)
+[Agile project management](https://www.nature.com/articles/d41586-019-01184-9)
