@@ -23,7 +23,7 @@ header:
     *Journal of Geophysical Research: Oceans (2019)*  
 
 0.  [The Contribution of Submesoscale Over Mesoscale Eddy Iron Transport in the Open Southern Ocean][10]  
-    Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy
+    Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy  
     *Journal of Advances in Modeling Earth Systems (2019)*  
 
 0.  [Modulation of Lateral Transport by Submesoscale Eddies and Inertia Gravity Waves][9]  
