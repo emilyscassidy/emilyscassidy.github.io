@@ -8,17 +8,23 @@ header:
 ---
 
 ### Submitted
-- [Southern Ocean Phytoplankton Blooms Observed by Biogeochemical Floats][temp1]  
-  Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Channing Prend, Emmanuel Boss, & Sarah Gille
-- [The contribution of submesoscale over mesoscale eddy iron transport in the open Southern Ocean][temp2]  
-  Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy
+- [Relative Dispersion in the Antarctic Circumpolar Current][temp1]   
+  **Dhruv Balwada**, Joseph H. LaCasce, Kevin Speer, & Raffaele Ferrari  
+
 - Eddy iron fluxes control primary production in the open Southern Ocean  
   Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy
 
-[temp1]:https://eartharxiv.org/bmex8/
-[temp2]:https://eartharxiv.org/xwb75/
+[temp1]: https://eartharxiv.org/mhtsb/
 
 ### Peer Reviewed Publications
+
+0.  [Southern Ocean Phytoplankton Blooms Observed by Biogeochemical Floats][11]  
+    Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Channing Prend, Emmanuel Boss, & Sarah Gille  
+    *Journal of Geophysical Research: Oceans (2019)*  
+
+0.  [The Contribution of Submesoscale Over Mesoscale Eddy Iron Transport in the Open Southern Ocean][10]  
+    Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy
+    *Journal of Advances in Modeling Earth Systems (2019)*  
 
 0.  [Modulation of Lateral Transport by Submesoscale Eddies and Inertia Gravity Waves][9]  
     Anirban Sinha, **D. Balwada**, N. Tarshish, & R. Abernathey  
@@ -84,3 +90,5 @@ header:
 [8vid3]: https://www.youtube.com/watch?v=TwC_GV8v7bs
 [8repo]: https://github.com/dhruvbalwada/submesoscale_subduction_GRL
 [9]: /assets/documents/Sinha_et_al2019.pdf
+[10]:https://eartharxiv.org/bmex8/
+[11]:https://eartharxiv.org/xwb75/
