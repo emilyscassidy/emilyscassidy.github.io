@@ -90,5 +90,5 @@ header:
 [8vid3]: https://www.youtube.com/watch?v=TwC_GV8v7bs
 [8repo]: https://github.com/dhruvbalwada/submesoscale_subduction_GRL
 [9]: /assets/documents/Sinha_et_al2019.pdf
-[10]:https://eartharxiv.org/bmex8/
-[11]:https://eartharxiv.org/xwb75/
+[10]:https://eartharxiv.org/xwb75/
+[11]:https://eartharxiv.org/bmex8/
