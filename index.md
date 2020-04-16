@@ -22,7 +22,12 @@ I was born in the Indian state of [Rajasthan](https://en.wikipedia.org/wiki/Raja
 
 ---
 
-### Links
-[Stupidity in Science](https://jcs.biologists.org/content/joces/121/11/1771.full.pdf)
+### Interesting Random Links
 
+#### Productivuty and mental health
+[Stupidity in Science](https://jcs.biologists.org/content/joces/121/11/1771.full.pdf)
 [Agile project management](https://www.nature.com/articles/d41586-019-01184-9)
+
+#### History of Oceanography
+[Fiction/Vision of Autonomous Obs, *Henry Stommel, 1989*](https://tos.org/oceanography/article/the-slocum-mission
+
