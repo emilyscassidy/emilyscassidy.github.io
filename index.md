@@ -5,7 +5,7 @@ header:
   image: /assets/images/wave_mix_tyler_penner_unsplash.jpg
 ---
 
-I am a postdoctoral researcher at the [Courant Institute of Mathematical Sciences][cims], [NYU][nyu], exploring the richness of oceanic turbulence and transport. Prior to moving to New York, I received a PhD at the [Geophysical Fluid Dynamics Institute, FSU][gfdi] in Tallahassee, Florida, and an undergraduate chemical engineering degree from the [Birla Institute of Technology and Science][bits] in [Goa](https://en.wikipedia.org/wiki/Goa), [India](https://en.wikipedia.org/wiki/India).
+I am a postdoctoral researcher at the [School of Oceanography](https://www.ocean.washington.edu/), UW, exploring the richness of oceanic turbulence and transport. Prior to moving to Seattle, I was a postdoc at the [Courant Institute of Mathematical Sciences][cims], [NYU][nyu]. I received a PhD at the [Geophysical Fluid Dynamics Institute, FSU][gfdi] in Tallahassee, Florida, and an undergraduate chemical engineering degree from the [Birla Institute of Technology and Science][bits] in [Goa](https://en.wikipedia.org/wiki/Goa), [India](https://en.wikipedia.org/wiki/India).
 
 My research is primarily focused on understanding how the [swirling flows](https://visibleearth.nasa.gov/view.php?id=77120) in the ocean, at scales of 100m - 100km, stir, mix and transport tracers. This stirring and transport plays an integral role in influencing the [Earth's](https://www.youtube.com/watch?v=P5_GlAOCHyE) [climate](https://www.ipcc.ch/reports/), and also controls the rhythms of oceanic and coastal ecosystems. You can read about the few aspects of this rich problem, which I have addressed with colleagues, on my [research page](/research/), or download my [publications](/publications) for more details.
 
@@ -31,4 +31,3 @@ I was born in the Indian state of [Rajasthan](https://en.wikipedia.org/wiki/Raja
 
 #### History of Oceanography
 [Fiction/Vision of Autonomous Obs, *(Henry Stommel, 1989)*](https://tos.org/oceanography/article/the-slocum-mission)
-
