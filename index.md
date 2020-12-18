@@ -1,12 +1,9 @@
 ---
 layout: single
 author_profile: true
+title: "Scientist Profile"
 header:
   image: /assets/images/wave_mix_tyler_penner_unsplash.jpg
----
-
----
-### Dhruv Balwada
 ---
 
 ### Academic Roadmap
