@@ -7,7 +7,7 @@ header:
   caption: "[Global temp anomaly from 1850-2018.](https://en.wikipedia.org/wiki/Warming_stripes)"
 ---
 
-[Google Scholar Profile][https://scholar.google.com/citations?user=e_C8ZrkAAAAJ&hl=en]
+[Google Scholar Profile](https://scholar.google.com/citations?user=e_C8ZrkAAAAJ&hl=en)
 
 ### In Preparation
 - [Conditioning vertical tracer fluxes on surface vorticity and strain highlights the role of submesoscales in Southern Ocean ventilation][mail]  
