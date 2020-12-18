@@ -6,21 +6,53 @@ header:
   image: /assets/images/global_temp_stripes.png
   caption: "[Global temp anomaly from 1850-2018.](https://en.wikipedia.org/wiki/Warming_stripes)"
 ---
+### In Preparation
+- [Conditioning vertical tracer fluxes on surface vorticity and strain highlights the role of submesoscales in Southern Ocean ventilation][mail]  
+  Qiyu Xiao, **Dhruv Balwada**, Shafer Smith, & Ryan Abernathey  
+
+- [Eddy transport tensor in an inhomogeneous ocean channel][mail]  
+  **Dhruv Balwada**, Shafer Smith, & Ryan Abernathey  
+
+- [Spectral energy flux and energy injection scales from surface drifter observations][mail]  
+  Jin-Han Xie, & **Dhruv Balwada**  
+
+- [Relative dispersion in the deep waters of the Gulf of Mexico][mail]  
+  Javier Rodriguez, Paula Perez-Brunius, Luis Z. Sanson, **Dhruv Balwada**, & Francisco Beron-Vera  
+
+- [Eddy driven meridional transport across the Antarctic Circumpolar Current][mail]  
+  **Dhruv Balwada**, Loic Juillon, Kevin Speer, Raffaele Ferrari, & John Marshall  
 
 ### Submitted
-- [Relative Dispersion in the Antarctic Circumpolar Current][temp1]   
-  **Dhruv Balwada**, Joseph H. LaCasce, Kevin Speer, & Raffaele Ferrari  
+- [Observational evidence for ventilation hot spots in the Southern Ocean][mail]  
+  Lillian Dove, Andrew F. Thompson, **Dhruv Balwada**, & Alison R. Gray  
+  *AGU Advances*  
 
-- Eddy iron fluxes control primary production in the open Southern Ocean  
-  Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy
+- [Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble][https://www.essoar.org/doi/pdf/10.1002/essoar.10504082.1]  
+  Takaya Uchida, Quentin Jamet, William Dewar, **Dhruv Balwada**, Julien Le Sommer, & Thierry Penduff  
+  *Journal of Advances in Modeling Earth Systems*   
 
-[temp1]: https://eartharxiv.org/mhtsb/
+- [Parameterizing non-propogating form drag over rough bathymetry][mail]  
+  Jody M. Klymak, **Dhruv Balwada**, Alberto Naveira Garabato, & Ryan Abernathey  
+  *Journal of Physical Oceanography*  
+
+- [Influence of surface water flows on phytoplankton distribution in a shallow estuary][mail]  
+  Natalie L. Geyer, **Dhruv Balwada**, Elizabeth Simons, Kevin Speer, & Markus Huettel  
+  *Estuarine, Coastal and Shelf Science*  
 
 ### Peer Reviewed Publications
+0.  [Relative Dispersion in the Antarctic Circumpolar Current][13]  
+    **Dhruv Balwada**, Joseph H. LaCasce, Kevin Speer, & Raffaele Ferrari  
+    *Journal of Physical Oceanography (2020)*
+
+0.  [Vertical Eddy Iron Fluxes Support Primary Production in the Open Southern Ocean][12]  
+    Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy  
+    *Nature Communications (2020)*  
+    [Supp Mat][12supp]  
 
 0.  [Southern Ocean Phytoplankton Blooms Observed by Biogeochemical Floats][11]  
     Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Channing Prend, Emmanuel Boss, & Sarah Gille  
     *Journal of Geophysical Research: Oceans (2019)*  
+    [Supp Mat][11supp]  
 
 0.  [The Contribution of Submesoscale Over Mesoscale Eddy Iron Transport in the Open Southern Ocean][10]  
     Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy  
@@ -33,7 +65,7 @@ header:
 0.  [Submesoscale Vertical Velocities Enhance Tracer Subduction in an Idealized Antarctic Circumpolar Current][8]  
     **Dhruv Balwada**, S. Smith, & R. Abernathey  
     *Geophysical Research Letters (2018)*  
-    [Supp Mat][8supp], [Video1km][8vid1], [Video5km][8vid2], [Video20km][8vid3], [Github repo with setup][8repo]
+    [Supp Mat][8supp], [Video1km][8vid1], [Video5km][8vid2], [Video20km][8vid3], [Github repo with setup][8repo]  
 
 0.  [Global Observations of Horizontal Mixing from Argo float and Surface drifter trajectories][7]  
     Christopher Roach, **D. Balwada**, & K.G. Speer   
@@ -90,5 +122,10 @@ header:
 [8vid3]: https://www.youtube.com/watch?v=TwC_GV8v7bs
 [8repo]: https://github.com/dhruvbalwada/submesoscale_subduction_GRL
 [9]: /assets/documents/Sinha_et_al2019.pdf
-[10]:https://eartharxiv.org/xwb75/
-[11]:https://eartharxiv.org/bmex8/
+[10]: /assets/documents/Uchida_et_al2019b.pdf
+[11]: /assets/documents/Uchida_et_al2019a.pdf
+[11supp]: /assets/documents/Uchida_et_al2019a_supp_material.pdf
+[12]: /assets/documents/Uchida_et_al2020.pdf
+[12supp]: /assets/documents/Uchida_et_al2020_supp_material.pdf
+[13]: /assets/documents/Balwada_et_al2020.pdf
+[mail]: mailto:dbalwada@uw.edu
