@@ -5,6 +5,7 @@ header:
   image: /assets/images/wave_mix_tyler_penner_unsplash.jpg
 ---
 
+  
 ### Academic Roadmap
 I am a postdoctoral researcher at the [School of Oceanography](https://www.ocean.washington.edu/), UW, exploring the richness of oceanic turbulence and transport. Prior to moving to Seattle, I was a postdoc at the [Courant Institute of Mathematical Sciences][cims], [NYU][nyu]. I received a PhD at the [Geophysical Fluid Dynamics Institute, FSU][gfdi] in Tallahassee, Florida, and an undergraduate chemical engineering degree from the [Birla Institute of Technology and Science][bits] in [Goa](https://en.wikipedia.org/wiki/Goa), [India](https://en.wikipedia.org/wiki/India).
 
@@ -15,7 +16,7 @@ A summary of my professional life as a list can be found in my [curriculum vitae
 
 ---
 
-### Pathway to Science 
+### Pathway to Science
 I was born in the Indian state of [Rajasthan](https://en.wikipedia.org/wiki/Rajasthan), which is well known for the [Thar Desert](https://en.wikipedia.org/wiki/Thar_Desert), and ancient palaces and forts (not for a lot of water bodies). I spent most of my childhood and teenage years in and around the capital city, [New Delhi](https://en.wikipedia.org/wiki/New_Delhi), and went to the western coastal state of Goa to study engineering after high-school. Even though living next to some of the most beautiful beaches in India as an undergrad, I had to go back inland, for an internship to [Bangalore](http://www.cmmacs.ernet.in/), to discover that humans spent time studying the ocean. The opportunity to study the fluid dynamics of the turbulent natural environment and to be involved in fieldwork have been the primary hooks that have lead me to where I am now.
 
 [cims]: https://caos.cims.nyu.edu/
