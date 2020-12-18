@@ -6,6 +6,9 @@ header:
   image: /assets/images/global_temp_stripes.png
   caption: "[Global temp anomaly from 1850-2018.](https://en.wikipedia.org/wiki/Warming_stripes)"
 ---
+
+[Google Scholar Profile][https://scholar.google.com/citations?user=e_C8ZrkAAAAJ&hl=en]
+
 ### In Preparation
 - [Conditioning vertical tracer fluxes on surface vorticity and strain highlights the role of submesoscales in Southern Ocean ventilation][mail]  
   Qiyu Xiao, **Dhruv Balwada**, Shafer Smith, & Ryan Abernathey  
@@ -27,7 +30,7 @@ header:
   Lillian Dove, Andrew F. Thompson, **Dhruv Balwada**, & Alison R. Gray  
   *AGU Advances*  
 
-- [Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble][https://www.essoar.org/doi/pdf/10.1002/essoar.10504082.1]  
+- [Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble](https://www.essoar.org/doi/pdf/10.1002/essoar.10504082.1)  
   Takaya Uchida, Quentin Jamet, William Dewar, **Dhruv Balwada**, Julien Le Sommer, & Thierry Penduff  
   *Journal of Advances in Modeling Earth Systems*   
 
