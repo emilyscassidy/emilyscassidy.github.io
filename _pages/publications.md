@@ -79,7 +79,7 @@ header:
     **Dhruv Balwada**, J.H. LaCasce, & K.G. Speer  
     *Geophysical Research Letters (2016)*  
 
-0.  [Horizontal Mixing in the Southern Ocean from ARGO Float Trajectories][5]  
+0.  [Horizontal Mixing in the Southern Ocean from Argo Float Trajectories][5]  
     Christopher Roach, **D. Balwada**, & K.G. Speer  
     *Journal of Geophysical Research: Oceans (2016)*
 
