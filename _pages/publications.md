@@ -10,7 +10,7 @@ header:
 [Google Scholar Profile](https://scholar.google.com/citations?user=e_C8ZrkAAAAJ&hl=en)
 
 ### In Preparation
-- [Conditioning vertical tracer fluxes on surface vorticity and strain highlights the role of submesoscales in Southern Ocean ventilation][mail]  
+- [Vertical fluxes conditioned on vorticity and strain reveal submesoscale ventilation][mail]  
   **Dhruv Balwada**, Qiyu Xiao, Shafer Smith, Ryan Abernathey, & Alison R Gray  
 
 - [Eddy transport tensor in an inhomogeneous ocean channel][mail]  
