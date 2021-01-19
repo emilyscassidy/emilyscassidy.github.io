@@ -28,10 +28,14 @@ I was born in the Indian state of [Rajasthan](https://en.wikipedia.org/wiki/Raja
 
 ### Interesting Random Links
 
-#### Productivuty and mental health
-[Stupidity in Science](https://jcs.biologists.org/content/joces/121/11/1771.full.pdf)
+#### Productivity and mental health
+[Stupidity in Science](https://jcs.biologists.org/content/joces/121/11/1771.full.pdf)  
+[Agile project management](https://www.nature.com/articles/d41586-019-01184-9)  
 
-[Agile project management](https://www.nature.com/articles/d41586-019-01184-9)
+#### Writing  
+[Ten simple rules for structuring paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)  
+[The science of science writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)  
+[Draft no. 4](https://www.newyorker.com/magazine/2013/04/29/draft-no-4)  
 
 #### History of Oceanography
-[Fiction/Vision of Autonomous Obs, *(Henry Stommel, 1989)*](https://tos.org/oceanography/article/the-slocum-mission)
+[Fiction/Vision of Autonomous Obs, *(Henry Stommel, 1989)*](https://tos.org/oceanography/article/the-slocum-mission)  
