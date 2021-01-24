@@ -23,10 +23,10 @@ header:
   **Dhruv Balwada**, Loic Juillon, Kevin Speer, Raffaele Ferrari, & John Marshall  
 
 ### Submitted  
-- [Vertical fluxes conditioned on vorticity and strain reveal submesoscale ventilation][mail]  
+- [Vertical fluxes conditioned on vorticity and strain reveal submesoscale ventilation](https://eartharxiv.org/repository/view/2009/)  
   **Dhruv Balwada**, Qiyu Xiao, Shafer Smith, Ryan Abernathey, & Alison R Gray  
   *Journal of Physical Oceanography*  
-    
+
 - [Observational evidence for ventilation hot spots in the Southern Ocean][mail]  
   Lillian Dove, Andrew F. Thompson, **Dhruv Balwada**, & Alison R. Gray  
   *Journal of Geophysical Research: Oceans*  
