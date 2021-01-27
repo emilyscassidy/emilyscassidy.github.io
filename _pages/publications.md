@@ -31,7 +31,7 @@ header:
   Lillian Dove, Andrew F. Thompson, **Dhruv Balwada**, & Alison R. Gray  
   *Journal of Geophysical Research: Oceans*  
 
-- [Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble](https://www.essoar.org/doi/pdf/10.1002/essoar.10504082.1)  
+- [Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble](https://www.essoar.org/doi/10.1002/essoar.10504082.2)  
   Takaya Uchida, Quentin Jamet, William Dewar, **Dhruv Balwada**, Julien Le Sommer, & Thierry Penduff  
   *Journal of Advances in Modeling Earth Systems*   
 
