@@ -11,10 +11,10 @@ header:
 
 ### In Preparation  
 - [Eddy transport tensor in an inhomogeneous ocean channel][mail]  
-  **Dhruv Balwada**, Shafer Smith, & Ryan Abernathey  
+  **Dhruv Balwada**, Shafer Smith, Takaya Uchida, & Ryan Abernathey  
 
-- [Spectral energy flux and energy injection scales from surface drifter observations][mail]  
-  Jin-Han Xie, & **Dhruv Balwada**  
+- [Spectral flux and energy injection scales of kinetic energy from surface drifters][mail]  
+  **Dhruv Balwada**, Raffaele Marino, & Jin-Han Xie  
 
 - [Relative dispersion in the deep waters of the Gulf of Mexico][mail]  
   Javier Rodriguez, Paula Perez-Brunius, Luis Z. Sanson, **Dhruv Balwada**, & Francisco Beron-Vera  
@@ -35,15 +35,15 @@ header:
   Takaya Uchida, Quentin Jamet, William Dewar, **Dhruv Balwada**, Julien Le Sommer, & Thierry Penduff  
   *Journal of Advances in Modeling Earth Systems*   
 
-- [Parameterizing non-propogating form drag over rough bathymetry][mail]  
-  Jody M. Klymak, **Dhruv Balwada**, Alberto Naveira Garabato, & Ryan Abernathey  
-  *Journal of Physical Oceanography*  
-
 - [Influence of surface water flows on phytoplankton distribution in a shallow estuary][mail]  
   Natalie L. Geyer, **Dhruv Balwada**, Elizabeth Simons, Kevin Speer, & Markus Huettel  
   *Estuarine, Coastal and Shelf Science*  
 
 ### Peer Reviewed Publications
+0.  [Parameterizing non-propagating form drag over rough bathymetry][14]  
+    Jody M. Klymak, **Dhruv Balwada**, Alberto Naveira Garabato, & Ryan Abernathey  
+    *Journal of Physical Oceanography*  
+
 0.  [Relative Dispersion in the Antarctic Circumpolar Current][13]  
     **Dhruv Balwada**, Joseph H. LaCasce, Kevin Speer, & Raffaele Ferrari  
     *Journal of Physical Oceanography (2020)*
@@ -131,5 +131,6 @@ header:
 [11supp]: /assets/documents/Uchida_et_al2019a_supp_material.pdf
 [12]: /assets/documents/Uchida_et_al2020.pdf
 [12supp]: /assets/documents/Uchida_et_al2020_supp_material.pdf
-[13]: /assets/documents/Balwada_et_al2020.pdf
+[13]: /assets/documents/Balwada_et_al2021.pdf
+[14]: /assets/documents/Klymak_et_al2021.pdf
 [mail]: mailto:dbalwada@uw.edu
