@@ -42,11 +42,11 @@ header:
 ### Peer Reviewed Publications
 0.  [Parameterizing non-propagating form drag over rough bathymetry][14]  
     Jody M. Klymak, **Dhruv Balwada**, Alberto Naveira Garabato, & Ryan Abernathey  
-    *Journal of Physical Oceanography*  
+    *Journal of Physical Oceanography (2021)*  
 
 0.  [Relative Dispersion in the Antarctic Circumpolar Current][13]  
     **Dhruv Balwada**, Joseph H. LaCasce, Kevin Speer, & Raffaele Ferrari  
-    *Journal of Physical Oceanography (2020)*
+    *Journal of Physical Oceanography (2021)*
 
 0.  [Vertical Eddy Iron Fluxes Support Primary Production in the Open Southern Ocean][12]  
     Takaya Uchida, **Dhruv Balwada**, Ryan Abernathey, Galen McKinley, Shafer Smith, & Marina Levy  
