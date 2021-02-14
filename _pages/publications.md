@@ -13,7 +13,7 @@ header:
 - [Eddy transport tensor in an inhomogeneous ocean channel][mail]  
   **Dhruv Balwada**, Shafer Smith, Takaya Uchida, & Ryan Abernathey  
 
-- [Spectral flux and energy injection scales of kinetic energy from surface drifters][mail]  
+- [Spectral flux and injection scales of kinetic energy from surface drifters][mail]  
   **Dhruv Balwada**, Raffaele Marino, & Jin-Han Xie  
 
 - [Relative dispersion in the deep waters of the Gulf of Mexico][mail]  
