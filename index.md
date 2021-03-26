@@ -37,5 +37,11 @@ I was born in the Indian state of [Rajasthan](https://en.wikipedia.org/wiki/Raja
 [The science of science writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)  
 [Draft no. 4](https://www.newyorker.com/magazine/2013/04/29/draft-no-4)  
 
-#### History of Oceanography
+#### Podcasts  
+[Forecast](https://forecastpod.org/)  
+[Climate Scientists](https://www.danjonesocean.com/#podcast)  
+[Deep Convection](https://deep-convection.org/)  
+I enjoy learning about the variety of science and scientist's lives and pathways from these podcasts.  
+
+#### History of Oceanography   
 [Fiction/Vision of Autonomous Obs, *(Henry Stommel, 1989)*](https://tos.org/oceanography/article/the-slocum-mission)  
