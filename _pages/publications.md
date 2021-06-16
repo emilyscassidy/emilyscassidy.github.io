@@ -23,10 +23,6 @@ header:
   **Dhruv Balwada**, Loic Juillon, Kevin Speer, Raffaele Ferrari, & John Marshall  
 
 ### Submitted  
-- [Vertical fluxes conditioned on vorticity and strain reveal submesoscale ventilation](https://eartharxiv.org/repository/view/2009/)  
-  **Dhruv Balwada**, Qiyu Xiao, Shafer Smith, Ryan Abernathey, & Alison R Gray  
-  *Journal of Physical Oceanography*  
-
 - [Observational evidence for ventilation hot spots in the Southern Ocean][mail]  
   Lillian Dove, Andrew F. Thompson, **Dhruv Balwada**, & Alison R. Gray  
   *Journal of Geophysical Research: Oceans*  
@@ -40,6 +36,10 @@ header:
   *Estuarine, Coastal and Shelf Science*  
 
 ### Peer Reviewed Publications
+0.  [Vertical fluxes conditioned on vorticity and strain reveal submesoscale ventilation][15]    
+    **Dhruv Balwada**, Qiyu Xiao, Shafer Smith, Ryan Abernathey, & Alison R Gray  
+    *Journal of Physical Oceanography (2021)*  
+
 0.  [Parameterizing non-propagating form drag over rough bathymetry][14]  
     Jody M. Klymak, **Dhruv Balwada**, Alberto Naveira Garabato, & Ryan Abernathey  
     *Journal of Physical Oceanography (2021)*  
@@ -133,4 +133,5 @@ header:
 [12supp]: /assets/documents/Uchida_et_al2020_supp_material.pdf
 [13]: /assets/documents/Balwada_et_al2021.pdf
 [14]: /assets/documents/Klymak_et_al2021.pdf
+[15]: /assets/documents/Balwada_et_al2021b.pdf
 [mail]: mailto:dbalwada@uw.edu
