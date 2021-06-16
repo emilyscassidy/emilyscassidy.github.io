@@ -16,9 +16,6 @@ header:
 - [Spectral flux and injection scales of kinetic energy from surface drifters][mail]  
   **Dhruv Balwada**, Raffaele Marino, & Jin-Han Xie  
 
-- [Relative dispersion in the deep waters of the Gulf of Mexico][mail]  
-  Javier Rodriguez, Paula Perez-Brunius, Luis Z. Sanson, **Dhruv Balwada**, & Francisco Beron-Vera  
-
 - [Eddy driven meridional transport across the Antarctic Circumpolar Current][mail]  
   **Dhruv Balwada**, Loic Juillon, Kevin Speer, Raffaele Ferrari, & John Marshall  
 
