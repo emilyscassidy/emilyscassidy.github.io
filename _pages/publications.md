@@ -31,7 +31,7 @@ header:
 ### Peer Reviewed Publications
 0.  [Observational evidence for ventilation hot spots in the Southern Ocean][16]  
     Lillian Dove, Andrew F. Thompson, **Dhruv Balwada**, & Alison R. Gray  
-    *Journal of Geophysical Research: Oceans*  
+    *Journal of Geophysical Research: Oceans (2021)*  
 
 0.  [Vertical fluxes conditioned on vorticity and strain reveal submesoscale ventilation][15]    
     **Dhruv Balwada**, Qiyu Xiao, Shafer Smith, Ryan Abernathey, & Alison R Gray  
