@@ -20,10 +20,6 @@ header:
   **Dhruv Balwada**, Loic Juillon, Kevin Speer, Raffaele Ferrari, & John Marshall  
 
 ### Submitted  
-- [Observational evidence for ventilation hot spots in the Southern Ocean][mail]  
-  Lillian Dove, Andrew F. Thompson, **Dhruv Balwada**, & Alison R. Gray  
-  *Journal of Geophysical Research: Oceans*  
-
 - [Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble](https://www.essoar.org/doi/10.1002/essoar.10504082.2)  
   Takaya Uchida, Quentin Jamet, William Dewar, **Dhruv Balwada**, Julien Le Sommer, & Thierry Penduff  
   *Journal of Advances in Modeling Earth Systems*   
@@ -33,6 +29,10 @@ header:
   *Estuarine, Coastal and Shelf Science*  
 
 ### Peer Reviewed Publications
+0.  [Observational evidence for ventilation hot spots in the Southern Ocean][16]  
+    Lillian Dove, Andrew F. Thompson, **Dhruv Balwada**, & Alison R. Gray  
+    *Journal of Geophysical Research: Oceans*  
+
 0.  [Vertical fluxes conditioned on vorticity and strain reveal submesoscale ventilation][15]    
     **Dhruv Balwada**, Qiyu Xiao, Shafer Smith, Ryan Abernathey, & Alison R Gray  
     *Journal of Physical Oceanography (2021)*  
@@ -131,4 +131,5 @@ header:
 [13]: /assets/documents/Balwada_et_al2021.pdf
 [14]: /assets/documents/Klymak_et_al2021.pdf
 [15]: /assets/documents/Balwada_et_al2021b.pdf
+[16]: /assets/documents/Dove_et_al2021.pdf
 [mail]: mailto:dbalwada@uw.edu
