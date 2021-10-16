@@ -19,6 +19,13 @@ header:
 - [Eddy driven meridional transport across the Antarctic Circumpolar Current][mail]  
   **Dhruv Balwada**, Loic Juillon, Kevin Speer, Raffaele Ferrari, & John Marshall  
 
+- [Tracer ventilation, stirring, and variability in the Antarctic Circumpolar Current near the Southwest India Ridge][mail]  
+  **Dhruv Balwada**, Alison Gray, Lilian Dove, & Andrew Thompson  
+
+- [Localized ventilation in high-strain regions of the Antarctic Circumpolar Current][mail]  
+  Lilian Dove, Andrew Thompson, **Dhruv Balwada**, & Alison Gray  
+
+
 ### Submitted  
 - [Diagnosing the thickness-weighted averaged eddy-mean flow interaction in an eddying North Atlantic ensemble](https://www.essoar.org/doi/10.1002/essoar.10504082.2)  
   Takaya Uchida, Quentin Jamet, William Dewar, **Dhruv Balwada**, Julien Le Sommer, & Thierry Penduff  
