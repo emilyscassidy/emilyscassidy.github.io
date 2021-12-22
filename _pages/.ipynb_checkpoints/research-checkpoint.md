@@ -13,8 +13,15 @@ header:
 To know more please proceed to [publications](/publications), for now.
 Or see cool movies related to research at [youtube](https://www.youtube.com/user/dhruvsus/videos) or [vimeo](https://vimeo.com/user12345586).
 
-### DIMES
+
+
+### Lagrangian dispersion to parameter estimation
 {% include video id="gRnIld6qiw0" provider="youtube" %}
 
-### Vertical Transport
+### Observations of turbulent cascades 
+
+### Vertical transport and ventilation
 {% include video id="0xpR_qx81FM" provider="youtube" %}
+
+### Improving parameterizations using high resolution simulations
+
