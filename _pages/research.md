@@ -15,9 +15,9 @@ To see published work proceed to [publications](/publications), or to see cool m
 <div style="width:350px; float: left">
     {% include video id="536804043" provider="vimeo" %}
 </div>
-While most coarse resolution ocean models use some form of isotropic diffusion to represent the effects of sub-grid turbulence, it is far from certain whether this is the appropriate structural form to represent the impacts of small-scale turbulent fluxes. I have run and analyzed high-resolution simulations in idealized domains, where important aspects of the turbulence are simulated, to probe the turbulent tracer fluxes using structural forms that are more general than what is currently used in diffusive parameterizations.
+While most coarse resolution ocean models use some form of isotropic diffusion to represent the effects of sub-grid turbulence, it is far from certain whether this is the appropriate structural form to represent the impacts of small-scale turbulent fluxes. I have run and analyzed high-resolution simulations in idealized domains, where important aspects of the turbulence are simulated, to probe the turbulent tracer fluxes using structural forms that are more general than what is currently used in diffusive parameterizations. I am doing this work as part of a larger effort through the [M2LInES](https://m2lines.github.io/) project.
 
-## Vertical transport and ventilation{: .text-right}
+## Vertical transport and ventilation
 <div style="width:350px; float: right">
 {% include video id="0xpR_qx81FM" provider="youtube" %}
 </div>
