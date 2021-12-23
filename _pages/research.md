@@ -9,12 +9,12 @@ header:
   caption: "[Eddies in a simulation of the Antarctic Circumpolar Current.](/assets/documents/Balwada_et_al2018.pdf)"
 ---
 
-**Under construction.**
-To know more please proceed to [publications](/publications), for now.
-Or see cool movies related to research at [youtube](https://www.youtube.com/user/dhruvsus/videos) or [vimeo](https://vimeo.com/user12345586).
+To see published work proceed to [publications](/publications), or to see cool movies related to research visit channels on [youtube](https://www.youtube.com/user/dhruvsus/videos) or [vimeo](https://vimeo.com/user12345586). For short summaries of some of the work I am involved in read on. 
 
 ## Improving parameterizations using high resolution simulations
-
+<div style="width:350px; float: left">
+    {% include video id="536804043" provider="vimeo" %}
+</div>
 
 ## Lagrangian dispersion to parameter estimation
 <div style="width:350px; float: right">
@@ -33,5 +33,6 @@ A key signature of turbulent flows is the distribution of energy (or variance) a
 <div style="width:350px; float: right">
 {% include video id="0xpR_qx81FM" provider="youtube" %}
 </div>
+The ocean exchanges tracers (e.g. heat, carbon, etc) with the atmosphere at the air-sea interface, and these are further exchanged with the interior ocean through the base of the mixed layer. Understanding the mechanisms setting the rate of this vertical transport or ventilation are crucial for quantifying the ocean’s role in climate variability. I have explored the role of the macroscale turbulence, which twists isopycnal outcrops and generates strong fronts near the surface, in controlling this vertical transport using both high-resolution simulations and observations.  
     
 
