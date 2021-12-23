@@ -17,7 +17,7 @@ Or see cool movies related to research at [youtube](https://www.youtube.com/user
 
 
 ## Lagrangian dispersion to parameter estimation
-<div style="width:400px; height:300px; float: right">
+<div style="width:400px; float: right">
     {% include video id="gRnIld6qiw0" provider="youtube" %}
     <p> <em>DIMES RAFOS floats in the Southern Ocean.</em> </p>    
 </div>
