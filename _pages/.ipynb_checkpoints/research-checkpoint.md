@@ -18,7 +18,7 @@ Or see cool movies related to research at [youtube](https://www.youtube.com/user
 
 ## Lagrangian dispersion to parameter estimation
 <div style="width:400px; float: right">
-    {% include video id="gRnIld6qiw0" provider="youtube" caption="DIMES RAFOS floats in the Southern Ocean." %}
+    {% include video id="gRnIld6qiw0" provider="youtube" %}
     <p> <em>DIMES RAFOS floats in the Southern Ocean.</em> </p>    
 </div>
 Mesoscale (100 km) ocean eddies, the dominant weather systems in the ocean, play a central role in transport by either directly stirring tracers and/or by dynamically modifying the stratification and mean flow. However, these eddies are usually not resolved in climate simulations, and often parameterized as diffusion. I have estimated observation-based constraints on this diffusivity parameter, and also focused on deciphering the functional relationships between the estimated parameters and the large-scale flow.
@@ -26,7 +26,7 @@ Mesoscale (100 km) ocean eddies, the dominant weather systems in the ocean, play
 
 ## Observations of turbulent cascades 
 <div style="width:400px; float: left">
-    {% include figure image_path="/assets/images/SF.pdf" caption="Scale-wise KE in the Gulf of Mexico." %}
+    {% include figure image_path="/assets/images/SF.png" caption="Scale-wise KE in the Gulf of Mexico." %}
     <p> <em>Scale-wise KE in the Gulf of Mexico.</em> </p>    
 </div>
 A key signature of turbulent flows is the distribution of energy (or variance) across a wide range of scales, which is accomplished by a cascade or transfer of energy across scales. It is very challenging to measure the properties of these cascades over the 1-100km range of scales, as these scales are too large to be sampled rapidly by ships and usually too small to be accurately measured by satellites. I have addressed this challenge by using observations from arrays of drifting instruments in combination with appropriate new statistical metrics for working with scattered data. My work has resulted in estimates of the scale-wise distribution and dynamical properties of the kinetic energy and tracer variance, and the rates at which this energy is transferred across scales.
