@@ -109,9 +109,9 @@ header:
 {: reversed="reversed"}
 
 ### Peer-reviewed Notebooks
-- [Interactive visualization tools for ocean glider data](https://doi.org/10.5281/zenodo.5496355)  
+- [Interactive visualization tools for ocean glider data](https://earthcube2021.github.io/ec21_book/notebooks/ec21_balwada_etal/README.html#)  
   **Dhruv Balwada**, Scott Henderson, Alison R. Gray  
-  EarthCube Annual Meeting (2021)
+  *EarthCube Annual Meeting (2021)*
 
 ### PhD Thesis  
 - [Circulation and Stirring by Ocean Turbulence]  
@@ -146,4 +146,4 @@ header:
 [14]: /assets/documents/Klymak_et_al2021.pdf
 [15]: /assets/documents/Balwada_et_al2021b.pdf
 [16]: /assets/documents/Dove_et_al2021.pdf
-[mail]: mailto:dbalwada@uw.edu
+[mail]: mailto:dbalwada@ldeo.columbia.edu

@@ -13,8 +13,6 @@ header:
 To know more please proceed to [publications](/publications), for now.
 Or see cool movies related to research at [youtube](https://www.youtube.com/user/dhruvsus/videos) or [vimeo](https://vimeo.com/user12345586).
 
-
-
 ### Lagrangian dispersion to parameter estimation
 {% include video id="gRnIld6qiw0" provider="youtube" %}
 
