@@ -27,7 +27,7 @@ Mesoscale (100 km) ocean eddies, the dominant weather systems in the ocean, play
 
 ## Observations of turbulent cascades 
 <div style="width:350px; float: left">
-    {% include figure image_path="/assets/images/SF.png" caption="Scale-wise KE in the Gulf of Mexico."%}
+    {% include figure image_path="/assets/images/SF.png" caption="Scale-wise kinetic energy in the Gulf of Mexico."%}
 </div>
 A key signature of turbulent flows is the distribution of energy (or variance) across a wide range of scales, which is accomplished by a cascade or transfer of energy across scales. It is very challenging to measure the properties of these cascades over the 1-100km range of scales, as these scales are too large to be sampled rapidly by ships and usually too small to be accurately measured by satellites. I have addressed this challenge by using observations from arrays of drifting instruments in combination with appropriate new statistical metrics for working with scattered data. My work has resulted in estimates of the scale-wise distribution and dynamical properties of the kinetic energy and tracer variance, and the rates at which this energy is transferred across scales.
 
