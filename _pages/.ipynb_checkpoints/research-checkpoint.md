@@ -15,6 +15,8 @@ To see published work proceed to [publications](/publications), or to see cool m
 <div style="width:350px; float: left">
     {% include video id="536804043" provider="vimeo" %}
 </div>
+While most coarse resolution ocean models use some form of isotropic diffusion to represent the effects of sub-grid turbulence, it is far from certain whether this is the appropriate structural form to represent the impacts of small-scale turbulent fluxes. I have run and analyzed high-resolution simulations in idealized domains, where important aspects of the turbulence are simulated, to probe the turbulent tracer fluxes using structural forms that are more general than what is currently used in diffusive parameterizations.
+
 
 ## Lagrangian dispersion to parameter estimation
 <div style="width:350px; float: right">
