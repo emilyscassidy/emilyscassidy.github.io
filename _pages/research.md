@@ -14,7 +14,7 @@ To know more please proceed to [publications](/publications), for now.
 Or see cool movies related to research at [youtube](https://www.youtube.com/user/dhruvsus/videos) or [vimeo](https://vimeo.com/user12345586).
 
 ### Lagrangian dispersion to parameter estimation
-![image-right]{% include video id="gRnIld6qiw0" provider="youtube" %}
+{% include video id="gRnIld6qiw0" provider="youtube" % width=50%}
 Mesoscale (100 km) ocean eddies, the dominant weather systems in the ocean, play a central role in transport by either directly stirring tracers and/or by dynamically modifying the stratification and mean flow. However, these eddies are usually not resolved in climate simulations, and often parameterized as diffusion. I have estimated observation-based constraints on this diffusivity parameter, and also focused on deciphering the functional relationships between the estimated parameters and the large-scale flow.
 {: .text-left}
 
