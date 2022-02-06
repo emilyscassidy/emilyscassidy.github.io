@@ -13,9 +13,6 @@ header:
 - [Eddy transport tensor in an inhomogeneous ocean channel][mail]  
   **Dhruv Balwada**, Shafer Smith, Takaya Uchida, & Ryan Abernathey  
 
-- [Direct evidence of an oceanic dual kinetic energy cascade and its seasonality from surface drifters.][mail]  
-  **Dhruv Balwada**, Jin-Han Xie, & Raffaele Marino  
-
 - [Eddy driven meridional transport across the Antarctic Circumpolar Current][mail]  
   **Dhruv Balwada**, Loic Juillon, Kevin Speer, Raffaele Ferrari, & John Marshall  
 
@@ -26,6 +23,9 @@ header:
   Ryan Abernathey, Mu Xu, & **Dhruv Balwada**  
 
 ### Submitted  
+- [Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality][mail]  
+  **Dhruv Balwada**, Jin-Han Xie, Raffaele Marino, & Fabio Feraco  
+
 - [Enhanced ventilation in the energetic regions of the Antarctic Circumpolar Current][mail]  
   Lilian Dove, **Dhruv Balwada**, Andrew Thompson, & Alison Gray  
   *Geophysical Research Letters*
