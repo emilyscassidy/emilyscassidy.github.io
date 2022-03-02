@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: ""
 header:
-  image: /assets/images/NASA EO Agriculture in Southeast Australia.png
+  image: /assets/images/China-Quilian-Mountains-NASA-EO.png
 ---
 
 ### Academic Roadmap
