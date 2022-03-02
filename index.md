@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Scientist Profile"
+title: ""
 header:
   image: /assets/images/NASA EO Agriculture in Southeast Australia.png
 ---
