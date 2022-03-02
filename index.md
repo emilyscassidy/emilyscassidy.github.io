@@ -7,7 +7,7 @@ header:
 ---
 
 ### Academic Roadmap
-I am an associate research scientist 
+
 
 ### Research Interests
 My research is primarily focused on 
