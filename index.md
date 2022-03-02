@@ -27,5 +27,3 @@ In graduate school I studied global food production.
 
 ### Writing
 
-#### Productivity and mental health
-[Stupidity in Science](https://jcs.biologists.org/content/joces/121/11/1771.full.pdf)  
