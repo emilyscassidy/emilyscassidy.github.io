@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Emily Cassidy"
-  avatar           : ""
+  avatar           : "/assets/images/Emily picture of me.jpg"
   bio              : "Environmental scientist, writer, and open science advocate."
   location         : "Washington, DC"
   email            : "emilyscassidy@gmail.com"
