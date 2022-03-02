@@ -118,7 +118,7 @@ author:
       #url: ""
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://emilyscassidy.github.io"
+      #url: "https://emilyscassidy.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/EnviroEm"
@@ -130,14 +130,14 @@ author:
       url: "https://github.com/emilyscassidy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: ""
+      #url: ""
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/EnviroEm"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
