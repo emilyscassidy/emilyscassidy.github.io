@@ -6,11 +6,12 @@ header:
   image: /assets/images/China-Quilian-Mountains-NASA-EO.png
 ---
 
-### Academic Roadmap
+### About
+I'm an environmental researcher and writer. 
+Currently, I'm a science writer and contractor for NASA's Earth Science Data Systems Program.
 
-
-### Research Interests
-My research is primarily focused on 
+### Research
+In graduate school I studied global food production.
 
 ---
 
