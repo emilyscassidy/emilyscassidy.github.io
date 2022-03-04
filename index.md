@@ -7,15 +7,13 @@ header:
 ---
 
 ### About
-I'm an environmental researcher and writer. 
-Currently, I'm a science writer and contractor for NASA's Earth Science Data Systems Program.
+Emily Cassidy is an environmental researcher and award-winning science writer. Her research has been featured in _National Geographic_, _Vox_, and _NBC News_. 
+Currently, Emily is a science writer and contractor for NASA's Earth Science Data Systems Program. She writes about how NASA's Earth science data and changing cyberinfrastructure. 
 
-### Research
-In graduate school I studied global food production.
 
----
+### Writing
 
-### Pathway to Science
+
 
 
 [cims]: https://caos.cims.nyu.edu/
