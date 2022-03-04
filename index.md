@@ -8,7 +8,7 @@ header:
 
 ### About
 Emily Cassidy is an environmental researcher and award-winning science writer. Her research has been featured in _National Geographic_, _Vox_, and _NBC News_. 
-Currently, Emily is a science writer for NASA's Earth Science Data Systems Program. She writes about NASA's Earth science data and changing cyberinfrastructure.[^1] 
+Currently, Emily is a science writer for NASA's Earth Science Data Systems Program. She writes about NASA's Earth science data and changing cyberinfrastructure. 
 
 ---
 ### Recent Work 
@@ -19,8 +19,10 @@ Currently, Emily is a science writer for NASA's Earth Science Data Systems Progr
 - [Satellites Help Improve Crop Yields in India](https://earthdata.nasa.gov/learn/articles/crop-yields-india). NASA Earthdata, August 19, 2021.
 - [Openscapes: Using "The Force" of Open Science in the Cloud](https://earthdata.nasa.gov/learn/articles/openscapes). NASA Earthdata, March 24, 2021.
 
-
-[^1]: <font size="1"> <i>Banner image credit: [Lauren Dauphin, NASA Earth Observatory](https://earthobservatory.nasa.gov/images/148234/chinas-red-rocks-and-rainbow-ridges), using Landsat data.</i></font> 
+<br>
+<br>
+<br>
+<font size="1"> <i>Banner image credit: <a href="https://earthobservatory.nasa.gov/images/148234/chinas-red-rocks-and-rainbow-ridges">Lauren Dauphin, NASA Earth Observatory, using Landsat data.</a></i></font> 
 
 
 
