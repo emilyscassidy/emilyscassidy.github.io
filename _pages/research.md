@@ -30,3 +30,9 @@ header:
   
 6. [Rethinking Agricultural Trade Relationships in an Era of Globalization](https://doi.org/10.1093/biosci/biu225)    
     *BioScience* (2015) Graham K. MacDonald, Kate A. Brauman, Shipeng Sun, Kimberly M. Carlson, **Emily S. Cassidy**, James S. Gerber, Paul C. West. This article was on the cover of _BioScience_.
+
+
+<br>
+<br>
+<br>
+<font size="1"> <i>Banner image credit: <a href="https://earthobservatory.nasa.gov/images/87578/agriculture-in-southeast-australia">Joshua Stevens and Jesse Allen, NASA Earth Observatory, using EO-1 ALI data.</a></i></font> 
