@@ -15,7 +15,7 @@ header:
 1.  [Redefining Agricultural Yields: From Tonnes to People Nourished Per Hectare](https://doi.org/10.1088/1748-9326/8/3/034015).  
     *Environmental Research Letters* (2013) **Emily S. Cassidy**, Paul C. West, James S. Gerber, and Jonathan A. Foley. 
     
-    _This research was the foundation of my master's research. The publication has been downloaded over 200,000 times, cited over 600 times, and is in the top 5% of all research outputs ever tracked by [Altmetric](https://iop.altmetric.com/details/1662889#score)._
+    _This article was the foundation of my master's research. The publication has been downloaded over 200,000 times, cited over 600 times, and is in the top 5% of all research outputs ever tracked by [Altmetric](https://iop.altmetric.com/details/1662889#score)._
 
 2. [Solutions for a cultivated planet](https://doi.org/10.1038/nature10452).  
     *Nature* (2011) Jonathan A. Foley, Navin Ramankutty, Kate A. Brauman, <b>Emily S. Cassidy</b>, James S. Gerber, Matt Johnston, Nathaniel D. Mueller, Christine O’Connell, Deepak K. Ray,   Paul C. West, Christian Balzer, Elena M. Bennett, Stephen R. Carpenter, Jason Hill, Chad Monfreda, Stephen Polasky, Johan Rockström, John Sheehan, Stefan Siebert, David Tilman, and David P. M. Zaks.
