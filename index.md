@@ -13,6 +13,7 @@ Currently, Emily is a science writer and contractor for NASA's Earth Science Dat
 ---
 ### Writing
 
+<img style="float: right;" src="assets/images/marine_microplastics_NASA_EO.png">
 
 
 
