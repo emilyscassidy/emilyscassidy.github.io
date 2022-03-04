@@ -11,9 +11,12 @@ Emily Cassidy is an environmental researcher and award-winning science writer. H
 Currently, Emily is a science writer and contractor for NASA's Earth Science Data Systems Program. She writes about how NASA's Earth science data and changing cyberinfrastructure. 
 
 ---
-### Writing
+### Recent Work 
 
-<img style="float: right;" src="assets/images/marine_microplastics_NASA_EO.png" alt="Global map of marine microplastics" width="225" height="150">
+<img style="float: left;" src="/assets/images/NASA_EO_total_gfei_2016.jpeg" alt="Global map of marine microplastics" width="150" height="100"> [Mapping Methane Emissions from Fossil Fuel Exploitation](https://earthobservatory.nasa.gov/images/149374/mapping-methane-emissions-from-fossil-fuel-exploitation), NASA Earth Observatory, January 25, 2022.
+
+<img style="float: left;" src="assets/images/marine_microplastics_NASA_EO.png" alt="Global map of marine microplastics" width="150" height="100"> [Mapping Marine Microplastics](https://earthobservatory.nasa.gov/images/149163/mapping-marine-microplastics), NASA Earth Observatory, December 3, 2021.
+
 
 
 
