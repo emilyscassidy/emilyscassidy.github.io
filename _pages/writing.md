@@ -7,7 +7,10 @@ header:
   caption: "[Global temp anomaly from 1850-2018.](https://en.wikipedia.org/wiki/Warming_stripes)"
 ---
 
-
+### NASA Earthdata and NASA Earth Observatory
+- [Lasering In on Corn Fields](https://earthobservatory.nasa.gov/images/149538/lasering-in-on-corn-fields) (March 7, 2022)
+*An instrument designed to measure tree height can also distinguish corn from other crops.*
+-      
 
 [1]: /assets/documents/Gille_et_al2012.pdf
 [2]: /assets/documents/LaCasce_et_al2014.pdf
