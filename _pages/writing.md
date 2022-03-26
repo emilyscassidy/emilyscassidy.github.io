@@ -18,6 +18,12 @@ header:
 - [Openscapes: Using "The Force" of Open Science in the Cloud](https://earthdata.nasa.gov/learn/articles/openscapes) (March 24, 2021) *This NASA-funded project supports researchers migrating workflows to the cloud using open, collaborative workflows*.
 - [Using Satellites to Measure the Size and Shape of Mangroves](https://earthdata.nasa.gov/learn/articles/measuring-mangroves) (July 1, 2020) *Researchers use remote sensing to measure mangrove forest extent and tree height to inform sustainable management of these ecosystems*.
 
+### World Resources Institute
+
+### Freelance
+- [A Soil Microbe Saved My Life](https://ensia.com/features/chemotherapy/) (November 20, 2018) *After nature helped me recover from cancer, I recognize the value of protecting it more than ever*.
+- [Eat a Frankenburger, save the world?](https://www.politico.com/story/2013/08/eat-a-frankenburger-save-the-world-095299) (August 7, 2013) */lab-grown beef could be great news for the planet.*
+
 
 [1]: /assets/documents/Gille_et_al2012.pdf
 [2]: /assets/documents/LaCasce_et_al2014.pdf
