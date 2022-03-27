@@ -19,10 +19,9 @@ header:
 - [Using Satellites to Measure the Size and Shape of Mangroves](https://earthdata.nasa.gov/learn/articles/measuring-mangroves) (July 1, 2020) *Researchers use remote sensing to measure mangrove forest extent and tree height to inform sustainable management of these ecosystems*.
 
 ### Freelance
-- [A Soil Microbe Saved My Life](https://ensia.com/features/chemotherapy/) (November 20, 2018) *After nature helped me recover from cancer, I recognize the value of protecting it more than ever*.
-- [Eat a Frankenburger, save the world?](https://www.politico.com/story/2013/08/eat-a-frankenburger-save-the-world-095299) (August 7, 2013) *Lab-grown beef could be great news for the planet.*
+- [A Soil Microbe Saved My Life](https://ensia.com/features/chemotherapy/) (November 20, 2018) *After nature helped me recover from cancer, I recognize the value of protecting it more than ever*. Ensia.
+- [Eat a Frankenburger, save the world?](https://www.politico.com/story/2013/08/eat-a-frankenburger-save-the-world-095299) (August 7, 2013) *Lab-grown beef could be great news for the planet.* Politico.
 
-### World Resources Institute
 
 
 
