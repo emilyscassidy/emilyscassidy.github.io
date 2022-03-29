@@ -20,10 +20,6 @@ Currently, Emily is a science writer for NASA's Earth Science Data Systems Progr
 - [Birthplace of a Hidden Figure](https://earthobservatory.nasa.gov/images/148738/birthplace-of-a-hidden-figure) (August 26, 2021) *Katherine Johnson rose above racial struggles to help America rise into space*. NASA Earth Observatory.
 - [Satellites Help Improve Crop Yields in India](https://earthdata.nasa.gov/learn/articles/crop-yields-india) (August 19, 2021) *Satellites provide crucial information for researchers to monitor and help improve agricultural productivity in India*. NASA Earthdata.
 
-<br>
-<br>
-<br>
-<font size="1"> <i>Banner image credit: <a href="https://earthobservatory.nasa.gov/images/148234/chinas-red-rocks-and-rainbow-ridges">Lauren Dauphin, NASA Earth Observatory, using Landsat data.</a></i></font> 
 
 
 
