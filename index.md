@@ -12,12 +12,12 @@ Currently, Emily is a science writer for NASA's Earth Science Data Systems Progr
 
 ---
 ### Recent Work 
-
+- [Lasering In on Corn Fields](https://earthobservatory.nasa.gov/images/149538/lasering-in-on-corn-fields) (March 7, 2022)
+*An instrument designed to measure tree height can also distinguish corn from other crops.*
 - [Mapping Methane Emissions from Fossil Fuel Exploitation](https://earthobservatory.nasa.gov/images/149374/mapping-methane-emissions-from-fossil-fuel-exploitation). NASA Earth Observatory, January 25, 2022.
 - [Mapping Marine Microplastics](https://earthobservatory.nasa.gov/images/149163/mapping-marine-microplastics). NASA Earth Observatory, December 3, 2021.
 - [Zuiderzee Works](https://earthobservatory.nasa.gov/images/148799/zuiderzee-works). NASA Earth Observatory, September 6, 2021. 
 - [Satellites Help Improve Crop Yields in India](https://earthdata.nasa.gov/learn/articles/crop-yields-india). NASA Earthdata, August 19, 2021.
-- [Openscapes: Using "The Force" of Open Science in the Cloud](https://earthdata.nasa.gov/learn/articles/openscapes). NASA Earthdata, March 24, 2021.
 
 <br>
 <br>
