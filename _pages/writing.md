@@ -4,7 +4,7 @@ title: "Writing"
 permalink: /writing/
 header:
   image: /assets/images/NASA Earth at Night.png
-  caption: "[Global temp anomaly from 1850-2018.](https://en.wikipedia.org/wiki/Warming_stripes)"
+  caption: "[NASA Earth Observatory, Earth at Night](https://earthobservatory.nasa.gov/features/NightLights)"
 ---
 *Select writing from recent positions I've held.*
 
