@@ -3,7 +3,7 @@ layout: single
 title: "Writing"
 permalink: /writing/
 header:
-  image: /assets/images/global_temp_stripes.png
+  image: /assets/images/NASA Earth at Night.png
   caption: "[Global temp anomaly from 1850-2018.](https://en.wikipedia.org/wiki/Warming_stripes)"
 ---
 *Select writing from recent positions I've held.*
