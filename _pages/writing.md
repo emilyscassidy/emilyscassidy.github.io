@@ -22,6 +22,10 @@ header:
 - [Eat a Frankenburger, save the world?](https://www.politico.com/story/2013/08/eat-a-frankenburger-save-the-world-095299) (August 7, 2013) *Lab-grown beef could be great news for the planet.* Politico.
 
 
+<br>
+<br>
+<br>
+<font size="1"> <i>Banner image credit: <a href="https://earthobservatory.nasa.gov/images/148234/red-rocks-and-rainbow-ridges">Lauren Dauphin, NASA Earth Observatory, using Landsat data.</a></i></font> 
 
 
 
