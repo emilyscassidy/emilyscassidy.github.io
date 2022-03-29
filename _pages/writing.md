@@ -3,8 +3,7 @@ layout: single
 title: "Writing"
 permalink: /writing/
 header:
-  image: /assets/images/NASA EO Earth at Night.png
-  caption: "[NASA Earth Observatory, Earth at Night](https://earthobservatory.nasa.gov/features/NightLights)"
+  image: /assets/images/China-Quilian-Mountains-NASA-EO.png
 ---
 *Select writing from recent positions I've held.*
 
