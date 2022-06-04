@@ -9,7 +9,9 @@ header:
 
 ### About
 Emily Cassidy is an environmental researcher and award-winning science writer. Her research has been featured in _National Geographic_, _Vox_, and _NBC News_. 
-Currently, Emily is a science writer for NASA's Earth Science Data Systems Program. She writes about NASA's Earth science data and cyberinfrastructure. 
+Currently, Emily is a research associate at World Resources Institute, where she is tracking the uptake of technologies and practices to reduce emissions from agriculture and land use change.
+
+Previously, Emily was a science writer for NASA's Earth Science Data Systems Program, where she wrote about NASA's Earth science data and cyberinfrastructure. 
 
 Emily earned bachelor's and master's degrees in natural resource science and management from the University of Minnesota. 
 
@@ -23,9 +25,5 @@ Emily earned bachelor's and master's degrees in natural resource science and man
 
 
 
-[cims]: https://caos.cims.nyu.edu/
-[nyu]: https://cims.nyu.edu/
-[gfdi]: https://gfdi.fsu.edu/
-[bits]: https://www.bits-pilani.ac.in/Goa/
 
 
