@@ -8,8 +8,7 @@ header:
 ---
 
 ### About
-Emily Cassidy is an environmental researcher and award-winning science writer. Her research has been featured in _National Geographic_, _Vox_, and _NBC News_. 
-Currently, Emily is a research associate at World Resources Institute, where she is tracking the uptake of technologies and practices to reduce emissions from agriculture and land use change.
+Emily Cassidy is an environmental scientist, science writer, and an expert in agriculture, climate, and land use change. She has published in scientific journals including *Science*, *Nature*, and *Environmental Research Letters* and her work has been featured in _National Geographic_, _Vox_, and _NBC News_. 
 
 Previously, Emily was a science writer for NASA's Earth Science Data Systems Program, where she wrote about NASA's Earth science data and cyberinfrastructure. 
 
