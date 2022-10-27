@@ -11,6 +11,11 @@ header:
 
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=VkTSKqYAAAAJ)
 
+### Research Publications at Non-profits
+* [Breakthrough Agenda](https://www.iea.org/reports/breakthrough-agenda-report-2022)
+  I led the Agriculture Breakthrough in the Breakthrough Agenda report, published in September, 2022. 
+* [State of Climate Action 2022](https://www.wri.org/research/state-climate-action-2022)
+  I co-authored the report and co-led the Food and Agriculture chapter.
 ### Peer-reviewed Publications
 1.  [Redefining Agricultural Yields: From Tonnes to People Nourished Per Hectare](https://doi.org/10.1088/1748-9326/8/3/034015)      
     *Environmental Research Letters* (2013) **Emily S. Cassidy**, Paul C. West, James S. Gerber, and Jonathan A. Foley. 
