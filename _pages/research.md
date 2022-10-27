@@ -13,14 +13,13 @@ header:
 
 ### Research Publications at Non-profits
 * [Breakthrough Agenda](https://www.iea.org/reports/breakthrough-agenda-report-2022)
-  <br>I led the Agriculture Breakthrough in the Breakthrough Agenda report, published September 19, 2022.</br> 
+  <br>I led the Agriculture Breakthrough in the Breakthrough Agenda report, published September 19, 2022. 
 * [State of Climate Action 2022](https://www.wri.org/research/state-climate-action-2022)
-  <br>I co-authored the Food and Agriculture chapter.</br>
+  <br>I co-authored the Food and Agriculture chapter.
   
 ### Peer-reviewed Publications
 1.  [Redefining Agricultural Yields: From Tonnes to People Nourished Per Hectare](https://doi.org/10.1088/1748-9326/8/3/034015)      
     *Environmental Research Letters* (2013) **Emily S. Cassidy**, Paul C. West, James S. Gerber, and Jonathan A. Foley. 
-    
     _This article is the foundation of my master's research. The publication has been downloaded over 200,000 times, cited over 600 times, and is in the top 5% of all research outputs ever tracked by [Altmetric](https://iop.altmetric.com/details/1662889#score)._
 
 2. [Solutions for a cultivated planet](https://doi.org/10.1038/nature10452)      
