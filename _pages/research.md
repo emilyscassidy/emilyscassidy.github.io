@@ -13,9 +13,9 @@ header:
 
 ### Research Publications at Non-profits
 * [Breakthrough Agenda](https://www.iea.org/reports/breakthrough-agenda-report-2022)
-  <br>I led the Agriculture Breakthrough in the Breakthrough Agenda report, published September 19, 2022. 
+  <br>The 2022 Breakthrough Agenda Report, led by the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA) and the UN Climate Change High-Level Champions, focused on supporting stronger international collaboration to drive faster reductions in global greenhouse gas emissions. I led the agriculture sector chapter of the report, published September 19, 2022. 
 * [State of Climate Action 2022](https://www.wri.org/research/state-climate-action-2022)
-  <br>I co-authored the Food and Agriculture chapter.
+  <br>The State of Climate Action 2022 provides a comprehensive assessment of the gap in climate action by highlighting where recent progress must accelerate over the next decade across power, buildings, industry, transport, forests and land, food and agriculture, technological carbon removal, and finance. I co-authored the food and agriculture chapter.
   
 ### Peer-reviewed Publications
 1.  [Redefining Agricultural Yields: From Tonnes to People Nourished Per Hectare](https://doi.org/10.1088/1748-9326/8/3/034015)      
