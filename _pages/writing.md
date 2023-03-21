@@ -8,7 +8,7 @@ header:
 *Select writing from recent positions I've held.*
 
 ### NASA Earth Observatory
-- - [How Nepal Regenerated Its Forests](https://earthobservatory.nasa.gov/images/150937/how-nepal-regenerated-its-forests) (February 2023) *After relinquishing control of forests to the villages that depend on them, forest cover in this small mountainous country nearly doubled.*
+- [How Nepal Regenerated Its Forests](https://earthobservatory.nasa.gov/images/150937/how-nepal-regenerated-its-forests) (February 2023) *After relinquishing control of forests to the villages that depend on them, forest cover in this small mountainous country nearly doubled.*
 - [Lasering In on Corn Fields](https://earthobservatory.nasa.gov/images/149538/lasering-in-on-corn-fields) (March 7, 2022)
 *An instrument designed to measure tree height can also distinguish corn from other crops.*
 - [Mapping Methane Emissions from Fossil Fuel Exploitation](https://earthobservatory.nasa.gov/images/149374/mapping-methane-emissions-from-fossil-fuel-exploitation) (January 25, 2022) *Scientists track the sources of 97 million metric tons of methane emissions*.
