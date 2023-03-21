@@ -18,6 +18,7 @@ Emily earned bachelor's and master's degrees in natural resource science and man
 
 ---
 ### Recent Work 
+- [How Nepal Regenerated Its Forests](https://earthobservatory.nasa.gov/images/150937/how-nepal-regenerated-its-forests) (February 2023) *After relinquishing control of forests to the villages that depend on them, forest cover in this small mountainous country nearly doubled.*
 - [Breakthrough Agenda](https://www.iea.org/reports/breakthrough-agenda-report-2022) (September, 2022)
   <br>The 2022 Breakthrough Agenda Report, led by the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA) and the UN Climate Change High-Level Champions, focused on supporting stronger international collaboration to drive faster reductions in global greenhouse gas emissions. Emily led the agriculture sector chapter of the report, published in September 2022. 
 - [State of Climate Action 2022](https://www.wri.org/research/state-climate-action-2022) (October, 2022)
