@@ -12,7 +12,7 @@ Emily Cassidy is an environmental scientist and science writer, with expertise i
 
 In 2013, Emily led the publication of a groundbreaking paper, [Redefining agricultural yields: from tonnes to people nourished per hectare](https://doi.org/10.1088/1748-9326/8/3/034015), which estimated the number of people fed per hectare of cropland across the globe. 
 
-Emily is an accomplished science writer and is a Senior Writer for NASA. She was awarded a Group Achievement Award in 2021 for contributing to NASA/ESA/JAXA’s COVID-19 Earth Observation Dashboard. 
+Emily is an accomplished science writer and is currently a contractor at NASA. In 2021, she was awarded a NASA Group Achievement Award for contributing to the NASA/ESA/JAXA COVID-19 Earth Observation Dashboard. 
 
 Emily earned bachelor's and master's degrees in natural resource science and management from the University of Minnesota. 
 
