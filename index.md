@@ -10,13 +10,11 @@ header:
 ### About
 Emily Cassidy is an environmental scientist and science writer, with expertise in agriculture, climate change, and land use. She has published in scientific journals including *Science*, *Nature*, and *Environmental Research Letters* and her work has been featured in [_National Geographic_](https://www.nationalgeographic.com/foodfeatures/feeding-9-billion/), [_Vox_](https://www.vox.com/2014/8/21/6053187/cropland-map-food-fuel-animal-feed), and [_NBC News_](https://www.nbcnews.com/sciencemain/feed-4-billion-more-skip-meat-milk-eggs-study-says-6c10848930). 
 
-Emily has over a decade of professional experience working with environmental non-profits, universities, and the federal government. In 2022, Emily worked with the United Nations Climate Champions, the International Energy Agency, and the International Renewable Energy Agency on the inaugural [Breakthrough Agenda](https://www.iea.org/reports/breakthrough-agenda-report-2022), a roadmap for accelerating international collaboration on reducing emissions from major sectors. Emily led the Agriculture Breakthrough with the World Resources Institute and the United Nations Climate Champions. 
-
-In 2013, Emily led the publication of a groundbreaking paper, [Redefining agricultural yields: from tonnes to people nourished per hectare](https://doi.org/10.1088/1748-9326/8/3/034015), which estimated the number of people fed per hectare of cropland across the globe. 
+Emily has over a decade of professional experience working with environmental non-profits, universities, and the federal government. In 2022, Emily worked with the United Nations Climate Champions, the International Energy Agency, and the International Renewable Energy Agency on the inaugural [Breakthrough Agenda](https://www.iea.org/reports/breakthrough-agenda-report-2022), a roadmap for accelerating international collaboration on reducing emissions from major sectors. Emily led the Agriculture Breakthrough with the World Resources Institute and the United Nations Climate Champions.  
 
 Emily is an accomplished science writer and is currently a contractor at NASA. In 2021, she was awarded a NASA Group Achievement Award for contributing to the NASA/ESA/JAXA COVID-19 Earth Observation Dashboard. The dashboard was recognized by the International Astronautical Federation as an example of how remote sensing data can allow decision makers, citizens, and the scientific community to easily access information that may be fundamental to protect our planet.
 
-Emily earned bachelor's and master's degrees in natural resource science and management from the University of Minnesota. 
+Emily earned bachelor's and master's degrees in natural resource science and management from the University of Minnesota. In 2013, Emily led the publication of a groundbreaking paper, [Redefining agricultural yields: from tonnes to people nourished per hectare](https://doi.org/10.1088/1748-9326/8/3/034015), which estimated the number of people fed per hectare of cropland across the globe.
 
 ---
 ### Recent Work 
