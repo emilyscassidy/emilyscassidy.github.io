@@ -14,7 +14,7 @@ Emily has over a decade of professional experience working with environmental no
 
 An accomplished science writer, Emily is currently a contractor at NASA's Earth Observatory, where she reports on how our planet is changing. In 2021, she was awarded a NASA Group Achievement Award for contributing to the NASA/ESA/JAXA COVID-19 Earth Observation Dashboard. The dashboard was recognized by the International Astronautical Federation as an example of how remote sensing data can allow decision makers, citizens, and the scientific community to easily access information that may be fundamental to protect our planet.
 
-Emily earned bachelor's and master's degrees in natural resource science and management from the University of Minnesota. In 2013, Emily led the publication of a groundbreaking paper, [Redefining agricultural yields: from tonnes to people nourished per hectare](https://doi.org/10.1088/1748-9326/8/3/034015), which estimated the number of people fed per hectare of cropland across the globe.
+Emily earned bachelor's and master's degrees in natural resource science and management from the University of Minnesota. As part of her master's research, Emily led the publication of a groundbreaking paper, [Redefining agricultural yields: from tonnes to people nourished per hectare](https://doi.org/10.1088/1748-9326/8/3/034015), which estimated the number of people fed per hectare of cropland across the globe.
 
 ---
 ### Recent Work 
