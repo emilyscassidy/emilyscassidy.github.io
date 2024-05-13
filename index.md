@@ -8,7 +8,7 @@ header:
 ---
 
 ### About
-Emily Cassidy is an environmental scientist and science writer, with expertise in agriculture, climate change, and land use. She has published in scientific journals including *Science*, *Nature*, and *Environmental Research Letters* and her work has been featured in _National Geographic_, _Vox_, and _NBC News_. 
+Emily Cassidy is an environmental scientist and science writer, with expertise in agriculture, climate change, and land use. She has published in scientific journals including *Science*, *Nature*, and *Environmental Research Letters* and her work has been featured in [_National Geographic_](https://www.nationalgeographic.com/foodfeatures/feeding-9-billion/), [_Vox_](https://www.vox.com/2014/8/21/6053187/cropland-map-food-fuel-animal-feed), and [_NBC News_](https://www.nbcnews.com/sciencemain/feed-4-billion-more-skip-meat-milk-eggs-study-says-6c10848930). 
 
 In 2013, Emily led the publication of a groundbreaking paper, [Redefining agricultural yields: from tonnes to people nourished per hectare](https://doi.org/10.1088/1748-9326/8/3/034015), which estimated the number of people fed per hectare of cropland across the globe. 
 
