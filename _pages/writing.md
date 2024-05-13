@@ -5,7 +5,6 @@ permalink: /writing/
 header:
   image: /assets/images/China-Quilian-Mountains-NASA-EO.png
 ---
-*Select writing from recent positions I've held.*
 
 ### NASA Earth Observatory
 - [How Nepal Regenerated Its Forests](https://earthobservatory.nasa.gov/images/150937/how-nepal-regenerated-its-forests) (February 2023) *After relinquishing control of forests to the villages that depend on them, forest cover in this small mountainous country nearly doubled.*
