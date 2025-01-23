@@ -24,14 +24,14 @@ Emily earned bachelor's and master's degrees in natural resource science and man
 - [Indigenous Communities Protect the Amazon](https://earthobservatory.nasa.gov/images/151921/indigenous-communities-protect-the-amazon) (October 2023) *Indigenous people are protecting carbon-rich forests in South America, and satellites are helping.*
 - [Protected Areas Safeguard Climate](https://earthobservatory.nasa.gov/images/151515/protected-areas-safeguard-climate) (June 2023) *Protecting carbon stored in ecosystems could be a powerful tool in tackling climate change.*
 - [How Nepal Regenerated Its Forests](https://earthobservatory.nasa.gov/images/150937/how-nepal-regenerated-its-forests) (February 2023) *After relinquishing control of forests to the villages that depend on them, forest cover in this small mountainous country nearly doubled.*
-- [Breakthrough Agenda](https://www.iea.org/reports/breakthrough-agenda-report-2022) (September, 2022)
+- [Breakthrough Agenda](https://www.iea.org/reports/breakthrough-agenda-report-2022) (September 2022)
   <br>The 2022 Breakthrough Agenda Report, led by the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA) and the UN Climate Change High-Level Champions, focused on supporting stronger international collaboration to drive faster reductions in global greenhouse gas emissions. Emily led the agriculture sector chapter of the report, published in September 2022. 
-- [State of Climate Action 2022](https://www.wri.org/research/state-climate-action-2022) (October, 2022)
+- [State of Climate Action 2022](https://www.wri.org/research/state-climate-action-2022) (October 2022)
   <br>The State of Climate Action 2022 provides a comprehensive assessment of the gap in climate action by highlighting where recent progress must accelerate over the next decade across power, buildings, industry, transport, forests and land, food and agriculture, technological carbon removal, and finance. Emily co-authored the food and agriculture chapter.
-- [Lasering In on Corn Fields](https://earthobservatory.nasa.gov/images/149538/lasering-in-on-corn-fields) (March 7, 2022) *An instrument designed to measure tree height can also distinguish corn from other crops.* NASA Earth Observatory.
-- [Mapping Methane Emissions from Fossil Fuel Exploitation](https://earthobservatory.nasa.gov/images/149374/mapping-methane-emissions-from-fossil-fuel-exploitation) (January 25, 2022) *Scientists track the sources of 97 million metric tons of methane emissions*. NASA Earth Observatory.
-- [Mapping Marine Microplastics](https://earthobservatory.nasa.gov/images/149163/mapping-marine-microplastics) (December 3, 2021) *Researchers used satellite data to detect and track masses of plastic floating in the ocean*. NASA Earth Observatory.
-- [Birthplace of a Hidden Figure](https://earthobservatory.nasa.gov/images/148738/birthplace-of-a-hidden-figure) (August 26, 2021) *Katherine Johnson rose above racial struggles to help America rise into space*. NASA Earth Observatory.
+- [Lasering In on Corn Fields](https://earthobservatory.nasa.gov/images/149538/lasering-in-on-corn-fields) (March 2022) *An instrument designed to measure tree height can also distinguish corn from other crops.* NASA Earth Observatory.
+- [Mapping Methane Emissions from Fossil Fuel Exploitation](https://earthobservatory.nasa.gov/images/149374/mapping-methane-emissions-from-fossil-fuel-exploitation) (January 2022) *Scientists track the sources of 97 million metric tons of methane emissions*. NASA Earth Observatory.
+- [Mapping Marine Microplastics](https://earthobservatory.nasa.gov/images/149163/mapping-marine-microplastics) (December 2021) *Researchers used satellite data to detect and track masses of plastic floating in the ocean*. NASA Earth Observatory.
+- [Birthplace of a Hidden Figure](https://earthobservatory.nasa.gov/images/148738/birthplace-of-a-hidden-figure) (August 2021) *Katherine Johnson rose above racial struggles to help America rise into space*. NASA Earth Observatory.
 
 
 
