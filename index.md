@@ -17,7 +17,12 @@ An accomplished science writer, Emily is currently a contractor at NASA's Earth 
 Emily earned bachelor's and master's degrees in natural resource science and management from the University of Minnesota. As part of her master's research, Emily led the publication of a groundbreaking paper, [Redefining agricultural yields: from tonnes to people nourished per hectare](https://doi.org/10.1088/1748-9326/8/3/034015), which estimated the number of people fed per hectare of cropland across the globe.
 
 ---
-### Recent Work 
+### Select Recent Work ###
+- [Charting the Exceptional, Unexpected Heat of 2023 and 2024](https://earthobservatory.nasa.gov/images/153588/charting-the-exceptional-unexpected-heat-of-2023-and-2024) (November 2024) *Global temperatures have soared in recent years and climate scientists are trying to understand why.*
+- [Satellite Data Suggest U.S. Methane Emissions Underestimated](https://earthobservatory.nasa.gov/images/152825/satellite-data-suggest-us-methane-emissions-underestimated) (June 2024) *Emissions of the potent greenhouse gas may be higher than previously thought, especially from landfills.*
+- [Emissions from Fossil Fuels Continue to Rise](https://earthobservatory.nasa.gov/images/152519/emissions-from-fossil-fuels-continue-to-rise) (March 2024) *Scientists’ annual checkup on Earth’s carbon cycle found that burning oil, coal, and natural gas is impeding progress to limit climate change.*
+- [Indigenous Communities Protect the Amazon](https://earthobservatory.nasa.gov/images/151921/indigenous-communities-protect-the-amazon) (October 2023) *Indigenous people are protecting carbon-rich forests in South America, and satellites are helping.*
+- [Protected Areas Safeguard Climate](https://earthobservatory.nasa.gov/images/151515/protected-areas-safeguard-climate) (June 2023) *Protecting carbon stored in ecosystems could be a powerful tool in tackling climate change.*
 - [How Nepal Regenerated Its Forests](https://earthobservatory.nasa.gov/images/150937/how-nepal-regenerated-its-forests) (February 2023) *After relinquishing control of forests to the villages that depend on them, forest cover in this small mountainous country nearly doubled.*
 - [Breakthrough Agenda](https://www.iea.org/reports/breakthrough-agenda-report-2022) (September, 2022)
   <br>The 2022 Breakthrough Agenda Report, led by the International Energy Agency (IEA), the International Renewable Energy Agency (IRENA) and the UN Climate Change High-Level Champions, focused on supporting stronger international collaboration to drive faster reductions in global greenhouse gas emissions. Emily led the agriculture sector chapter of the report, published in September 2022. 
@@ -26,7 +31,6 @@ Emily earned bachelor's and master's degrees in natural resource science and man
 - [Lasering In on Corn Fields](https://earthobservatory.nasa.gov/images/149538/lasering-in-on-corn-fields) (March 7, 2022) *An instrument designed to measure tree height can also distinguish corn from other crops.* NASA Earth Observatory.
 - [Mapping Methane Emissions from Fossil Fuel Exploitation](https://earthobservatory.nasa.gov/images/149374/mapping-methane-emissions-from-fossil-fuel-exploitation) (January 25, 2022) *Scientists track the sources of 97 million metric tons of methane emissions*. NASA Earth Observatory.
 - [Mapping Marine Microplastics](https://earthobservatory.nasa.gov/images/149163/mapping-marine-microplastics) (December 3, 2021) *Researchers used satellite data to detect and track masses of plastic floating in the ocean*. NASA Earth Observatory.
-- [Zuiderzee Works](https://earthobservatory.nasa.gov/images/148799/zuiderzee-works) (September 6, 2021) *Where the Netherlands meets the North Sea, there is an impressive confluence of natural and man-made features*. NASA Earth Observatory.
 - [Birthplace of a Hidden Figure](https://earthobservatory.nasa.gov/images/148738/birthplace-of-a-hidden-figure) (August 26, 2021) *Katherine Johnson rose above racial struggles to help America rise into space*. NASA Earth Observatory.
 
 
