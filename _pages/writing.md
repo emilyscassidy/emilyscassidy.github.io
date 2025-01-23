@@ -7,6 +7,10 @@ header:
 ---
 
 ### NASA Earth Observatory
+- [Satellite Data Suggest U.S. Methane Emissions Underestimated](https://earthobservatory.nasa.gov/images/152825/satellite-data-suggest-us-methane-emissions-underestimated) (June 2024) *Emissions of the potent greenhouse gas may be higher than previously thought, especially from landfills.*
+- [Emissions from Fossil Fuels Continue to Rise](https://earthobservatory.nasa.gov/images/152519/emissions-from-fossil-fuels-continue-to-rise) (March 2024) *Scientists’ annual checkup on Earth’s carbon cycle found that burning oil, coal, and natural gas is impeding progress to limit climate change.*
+- [Indigenous Communities Protect the Amazon](https://earthobservatory.nasa.gov/images/151921/indigenous-communities-protect-the-amazon) (October 2023) *Indigenous people are protecting carbon-rich forests in South America, and satellites are helping.*
+- [Protected Areas Safeguard Climate](https://earthobservatory.nasa.gov/images/151515/protected-areas-safeguard-climate) (June 2023) *Protecting carbon stored in ecosystems could be a powerful tool in tackling climate change.*
 - [How Nepal Regenerated Its Forests](https://earthobservatory.nasa.gov/images/150937/how-nepal-regenerated-its-forests) (February 2023) *After relinquishing control of forests to the villages that depend on them, forest cover in this small mountainous country nearly doubled.*
 - [Lasering In on Corn Fields](https://earthobservatory.nasa.gov/images/149538/lasering-in-on-corn-fields) (March 7, 2022)
 *An instrument designed to measure tree height can also distinguish corn from other crops.*
