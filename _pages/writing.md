@@ -7,6 +7,7 @@ header:
 ---
 
 ### NASA Earth Observatory
+- [Charting the Exceptional, Unexpected Heat of 2023 and 2024](https://earthobservatory.nasa.gov/images/153588/charting-the-exceptional-unexpected-heat-of-2023-and-2024) (November 2024) *Global temperatures have soared in recent years and climate scientists are trying to understand why.*
 - [Satellite Data Suggest U.S. Methane Emissions Underestimated](https://earthobservatory.nasa.gov/images/152825/satellite-data-suggest-us-methane-emissions-underestimated) (June 2024) *Emissions of the potent greenhouse gas may be higher than previously thought, especially from landfills.*
 - [Emissions from Fossil Fuels Continue to Rise](https://earthobservatory.nasa.gov/images/152519/emissions-from-fossil-fuels-continue-to-rise) (March 2024) *Scientists’ annual checkup on Earth’s carbon cycle found that burning oil, coal, and natural gas is impeding progress to limit climate change.*
 - [Indigenous Communities Protect the Amazon](https://earthobservatory.nasa.gov/images/151921/indigenous-communities-protect-the-amazon) (October 2023) *Indigenous people are protecting carbon-rich forests in South America, and satellites are helping.*
