@@ -9,7 +9,7 @@ header:
   caption: " "
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=VkTSKqYAAAAJ)
+[Google Scholar Profile](https://scholar.google.com/citations?user=GXzn-qIAAAAJ&hl=en&oi=ao)
 
 ### Research Publications at Non-profits
 * [Breakthrough Agenda](https://www.iea.org/reports/breakthrough-agenda-report-2022)
