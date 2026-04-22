@@ -7,7 +7,7 @@ header:
   caption: "[NASA Earth Observatory, Earth at Night](https://earthobservatory.nasa.gov/features/NightLights)"
 ---
 
-### About
+## About
 Emily Cassidy is an environmental scientist and science writer, with expertise in agriculture, climate change, and land use. She has published in scientific journals including *Science*, *Nature*, and *Environmental Research Letters* and her work has been featured in [_National Geographic_](https://www.nationalgeographic.com/foodfeatures/feeding-9-billion/), [_Vox_](https://www.vox.com/2014/8/21/6053187/cropland-map-food-fuel-animal-feed), and [_NBC News_](https://www.nbcnews.com/sciencemain/feed-4-billion-more-skip-meat-milk-eggs-study-says-6c10848930). 
 
 Emily has over a decade of professional experience working with environmental non-profits, universities, and the federal government. In 2022, Emily worked with the United Nations Climate Champions, the International Energy Agency, and the International Renewable Energy Agency on the inaugural [Breakthrough Agenda](https://www.iea.org/reports/breakthrough-agenda-report-2022), a roadmap for accelerating international collaboration on reducing emissions from major sectors. Emily led the Agriculture Breakthrough with the World Resources Institute and the United Nations Climate Champions.  
@@ -19,14 +19,14 @@ Previously, Emily spent five years writing for NASA's Earth Observatory and NASA
 Emily earned bachelor's and master's degrees in natural resource science and management from the University of Minnesota. As part of her master's research, Emily led the publication of a groundbreaking paper, [Redefining agricultural yields: from tonnes to people nourished per hectare](https://doi.org/10.1088/1748-9326/8/3/034015), which estimated the number of people fed per hectare of cropland across the globe.
 
 ---
-### Select Recent Work ###
+## Select Recent Work 
 
-## Project Drawdown
+### Project Drawdown
 - [We can’t ignore the largest source of methane](https://drawdown.org/insights/we-cant-ignore-the-largest-source-of-methane) *Our global food system is the largest source of human-caused methane – we ignore it at our peril*
 - [Drawdown Roadmap for Food, Agriculture, and Land Use in Southeast Asia](https://drawdown.org/publications/a-drawdown-roadmap-for-food-agriculture-and-land-use-in-southeast-asia) *Identifying the highest-priority, most effective climate actions within food and land use in Southeast Asia, without cutting crop yields.*
 - [Why forests and farming are critical climate solutions in Southeast Asia](https://drawdown.org/insights/why-forests-and-farming-are-critical-climate-solutions-in-southeast-asia)
 
-## NASA
+### NASA
 - [Charting the Exceptional, Unexpected Heat of 2023 and 2024](https://earthobservatory.nasa.gov/images/153588/charting-the-exceptional-unexpected-heat-of-2023-and-2024) (November 2024) *Global temperatures have soared in recent years and climate scientists are trying to understand why.*
 - [Satellite Data Suggest U.S. Methane Emissions Underestimated](https://earthobservatory.nasa.gov/images/152825/satellite-data-suggest-us-methane-emissions-underestimated) (June 2024) *Emissions of the potent greenhouse gas may be higher than previously thought, especially from landfills.*
 - [Emissions from Fossil Fuels Continue to Rise](https://earthobservatory.nasa.gov/images/152519/emissions-from-fossil-fuels-continue-to-rise) (March 2024) *Scientists’ annual checkup on Earth’s carbon cycle found that burning oil, coal, and natural gas is impeding progress to limit climate change.*
