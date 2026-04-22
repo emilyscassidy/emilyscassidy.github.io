@@ -20,6 +20,13 @@ Emily earned bachelor's and master's degrees in natural resource science and man
 
 ---
 ### Select Recent Work ###
+
+## Project Drawdown
+- [We can’t ignore the largest source of methane](https://drawdown.org/insights/we-cant-ignore-the-largest-source-of-methane) *Our global food system is the largest source of human-caused methane – we ignore it at our peril*
+- [Drawdown Roadmap for Food, Agriculture, and Land Use in Southeast Asia](https://drawdown.org/publications/a-drawdown-roadmap-for-food-agriculture-and-land-use-in-southeast-asia) *Identifying the highest-priority, most effective climate actions within food and land use in Southeast Asia, without cutting crop yields.*
+- [Why forests and farming are critical climate solutions in Southeast Asia](https://drawdown.org/insights/why-forests-and-farming-are-critical-climate-solutions-in-southeast-asia)
+
+## NASA
 - [Charting the Exceptional, Unexpected Heat of 2023 and 2024](https://earthobservatory.nasa.gov/images/153588/charting-the-exceptional-unexpected-heat-of-2023-and-2024) (November 2024) *Global temperatures have soared in recent years and climate scientists are trying to understand why.*
 - [Satellite Data Suggest U.S. Methane Emissions Underestimated](https://earthobservatory.nasa.gov/images/152825/satellite-data-suggest-us-methane-emissions-underestimated) (June 2024) *Emissions of the potent greenhouse gas may be higher than previously thought, especially from landfills.*
 - [Emissions from Fossil Fuels Continue to Rise](https://earthobservatory.nasa.gov/images/152519/emissions-from-fossil-fuels-continue-to-rise) (March 2024) *Scientists’ annual checkup on Earth’s carbon cycle found that burning oil, coal, and natural gas is impeding progress to limit climate change.*
