@@ -22,6 +22,7 @@ Emily earned bachelor's and master's degrees in natural resource science and man
 ## Select Recent Work 
 
 ### Project Drawdown
+- [What type of chocolate is best for climate?](https://drawdown.org/insights/what-type-of-chocolate-is-best-for-climate) (April 2026) *Where the cocoa in chocolate comes from matters more than whether it’s dark or milk.*
 - [We can’t ignore the largest source of methane](https://drawdown.org/insights/we-cant-ignore-the-largest-source-of-methane) (January 2026) *Our global food system is the largest source of human-caused methane – we ignore it at our peril*
 - [Drawdown Roadmap for Food, Agriculture, and Land Use in Southeast Asia](https://drawdown.org/publications/a-drawdown-roadmap-for-food-agriculture-and-land-use-in-southeast-asia) (November 2025) *Identifying the highest-priority, most effective climate actions within food and land use in Southeast Asia, without cutting crop yields.*
 - [Why forests and farming are critical climate solutions in Southeast Asia](https://drawdown.org/insights/why-forests-and-farming-are-critical-climate-solutions-in-southeast-asia) (November 2025) *Southeast Asia is one of the most carbon-rich places on Earth. The region is home to dense tropical forests, as well as peatlands and mangroves, which together store massive amounts of carbon above and below ground. But when trees are cut down and peatlands are drained, these carbon stores are released into the atmosphere.* 
