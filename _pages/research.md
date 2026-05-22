@@ -39,7 +39,7 @@ header:
     *Frontiers in Ecology and the Environment* (2018) Heather M. Tallis, Peter L. Hawthorne, Stephen Polasky, Joseph Reid, Michael W. Beck, Kate A. Brauman, Jeffrey M. Bielicki, Seth Binder, Matthew G. Burgess, <b>Emily S. Cassidy</b>, Adam Clark, Joseph Fargione, Edward T. Game, James S. Gerber, Forest Isbell, Joseph Kiesecker, Robert McDonald, Marc Metian, Jennifer L. Molnar, Nathan D. Mueller, Christine O'Connell, Daniel Ovando, Max Troell, Timothy M. Boucher, Brian McPeek.
 
 6. [Only half of the calories produced on croplands are available as food for human consumption](https://doi.org/10.1088/2976-601X/ae4f6b)
-    *Environmental Research: Food Systems* (2026) Paul C West, James S Gerber, <b>Emily S Cassidy</b> and Samuel Stiffman
+    <br>*Environmental Research: Food Systems* (2026) Paul C West, James S Gerber, <b>Emily S Cassidy</b> and Samuel Stiffman. </br>
    _For every 100 calories produced on croplands, 45 are eaten, 40 are fed to livestock, and 15 are used for other non-food products like biofuels._
 
 
