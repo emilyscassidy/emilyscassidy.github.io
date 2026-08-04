@@ -83,7 +83,7 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
+Bluesky:
   username               : EnviroEm
 facebook:
   username               :
@@ -119,9 +119,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       #url: "https://emilyscassidy.github.io"
-    - label: "Twitter"
+    - label: "BlueSky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/EnviroEm"
+      url: "https://bsky.app/profile/enviroem.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -135,9 +135,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "BlueSky"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/EnviroEm"
+      url: "https://bsky.app/profile/enviroem.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
