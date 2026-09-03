@@ -22,6 +22,7 @@ Emily earned bachelor's and master's degrees in natural resource science and man
 ## Select Recent Work 
 
 ### Project Drawdown
+- [How much beef is too much for climate?](https://drawdown.org/insights/how-much-beef-is-too-much-for-climate) (July 2026) *Keeping beef consumption to one serving per week and swapping additional servings for other protein-rich foods could cut billions of metric tons of greenhouse gas emissions globally.*
 - [What type of chocolate is best for climate?](https://drawdown.org/insights/what-type-of-chocolate-is-best-for-climate) (April 2026) *Where the ingredients come from matters more than whether it’s dark or milk.*
 - [We can’t ignore the largest source of methane](https://drawdown.org/insights/we-cant-ignore-the-largest-source-of-methane) (January 2026) *Our global food system is the largest source of human-caused methane – we ignore it at our peril*
 - [Drawdown Roadmap for Food, Agriculture, and Land Use in Southeast Asia](https://drawdown.org/publications/a-drawdown-roadmap-for-food-agriculture-and-land-use-in-southeast-asia) (November 2025) *Identifying the highest-priority, most effective climate actions within food and land use in Southeast Asia, without cutting crop yields.*
