@@ -6,6 +6,7 @@ header:
   image: /assets/images/China-Quilian-Mountains-NASA-EO.png
 ---
 ### Project Drawdown
+- [How much beef is too much for climate?](https://drawdown.org/insights/how-much-beef-is-too-much-for-climate) (July 2026) *Keeping beef consumption to one serving per week and swapping additional servings for other protein-rich foods could cut billions of metric tons of greenhouse gas emissions globally.*
 - [What type of chocolate is best for climate?](https://drawdown.org/insights/what-type-of-chocolate-is-best-for-climate) (April 2026) *Where the ingredients come from matters more than whether it’s dark or milk.*
 - [We can’t ignore the largest source of methane](https://drawdown.org/insights/we-cant-ignore-the-largest-source-of-methane) (January 2026) *Our global food system is the largest source of human-caused methane – we ignore it at our peril*
 - [Why forests and farming are critical climate solutions in Southeast Asia](https://drawdown.org/insights/why-forests-and-farming-are-critical-climate-solutions-in-southeast-asia) (November 2025) *Southeast Asia is one of the most carbon-rich places on Earth. The region is home to dense tropical forests, as well as peatlands and mangroves, which together store massive amounts of carbon above and below ground. But when trees are cut down and peatlands are drained, these carbon stores are released into the atmosphere.* 
